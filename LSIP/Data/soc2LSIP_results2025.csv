@@ -1,0 +1,989 @@
+LSIP-SOC2,SOC2,SOC 2 digit label,Intercept,Coefficient,WeightedRoles,Value
+Cumbria-SOC11,11,Corporate managers and directors,244.7483870967742,-1.5487903225806445,-0.00035606062202446053,2460.0
+Swindon and Wiltshire-SOC11,11,Corporate managers and directors,440.14193548387095,-1.6520161290322577,-0.0007442993288313457,4821.0
+Hertfordshire-SOC11,11,Corporate managers and directors,793.5032258064516,-0.8358870967741936,-0.0007257821687401723,9291.0
+North of Tyne-SOC11,11,Corporate managers and directors,490.89677419354837,-3.2576612903225795,-0.0015021084361675305,4934.0
+Thames Valley Berkshire-SOC11,11,Corporate managers and directors,893.1870967741935,-3.582258064516128,-0.003252674372558227,9716.0
+Gloucestershire-SOC11,11,Corporate managers and directors,506.19354838709677,-3.6249999999999996,-0.0016938471900313375,5000.0
+North East-SOC11,11,Corporate managers and directors,387.7032258064516,-1.3241935483870964,-0.0005296530157158902,4280.0
+York and North Yorkshire-SOC11,11,Corporate managers and directors,505.01290322580644,-3.676209677419354,-0.0017150274019783402,4992.0
+Hull and East Yorkshire-SOC11,11,Corporate managers and directors,234.1806451612903,-1.3016129032258061,-0.00029400499463873054,2417.0
+StokeonTrent and Staffordshire-SOC11,11,Corporate managers and directors,513.1870967741936,-3.8020161290322574,-0.0017826015043750634,5017.0
+South Yorkshire-SOC11,11,Corporate managers and directors,529.2903225806451,-0.9556451612903227,-0.0005468360497577678,6123.0
+Derbyshire and Nottinghamshire-SOC11,11,Corporate managers and directors,1141.6516129032257,-3.9439516129032253,-0.004668760129149671,12667.0
+Solent-SOC11,11,Corporate managers and directors,660.8,1.3975806451612902,0.0011049521043623425,8460.0
+West Yorkshire-SOC11,11,Corporate managers and directors,1313.4193548387095,-7.538306451612901,-0.009610545664849573,13642.0
+West of England and North Somerset-SOC11,11,Corporate managers and directors,1160.1806451612904,-4.134274193548387,-0.004942355037648355,12792.0
+Greater Manchester-SOC11,11,Corporate managers and directors,2037.5096774193548,-0.9935483870967746,-0.0022668572674717563,24414.0
+Heart of the SouthWest-SOC11,11,Corporate managers and directors,790.8645161290323,-1.2677419354838704,-0.0010921034349810161,9218.0
+Kent and Medway-SOC11,11,Corporate managers and directors,1006.1032258064515,-6.5588709677419335,-0.006264965563856759,10221.0
+Oxfordshire-SOC11,11,Corporate managers and directors,814.6967741935483,-1.9931451612903217,-0.0017281821320243474,9278.0
+Cornwall and the Isles of Scilly-SOC11,11,Corporate managers and directors,232.1741935483871,-1.228629032258064,-0.0002772899447626595,2415.0
+South East Midlands-SOC11,11,Corporate managers and directors,1141.8645161290322,-5.064112903225805,-0.005821095225208539,12300.0
+Leicester and Leicestershire-SOC11,11,Corporate managers and directors,563.974193548387,-1.050806451612903,-0.0006398821847469716,6516.0
+Worcestershire-SOC11,11,Corporate managers and directors,319.083870967742,-1.670564516129032,-0.0005175388994663835,3315.0
+"Essex, SouthendonSea and Thurrock-SOC11",11,Corporate managers and directors,751.6129032258065,-0.6794354838709674,-0.0005666357856656244,8924.0
+Dorset-SOC11,11,Corporate managers and directors,394.77419354838713,-1.0927419354838706,-0.0004497396039482448,4404.0
+The Marches-SOC11,11,Corporate managers and directors,325.50967741935483,-1.8725806451612896,-0.0005858982385204119,3348.0
+Lancashire-SOC11,11,Corporate managers and directors,609.5096774193548,-1.7193548387096769,-0.0011059601978001114,6883.0
+"Brighton and Hove, East Sussex, West Sussex-SOC11",11,Corporate managers and directors,1184.8451612903227,-2.1979838709677413,-0.0028032246633025943,13647.0
+Greater Lincolnshire-SOC11,11,Corporate managers and directors,436.63870967741934,-1.9028225806451609,-0.000832579893522723,4682.0
+Cheshire and Warrington-SOC11,11,Corporate managers and directors,556.0580645161291,-0.33225806451612927,-0.00020518319018783364,6608.0
+Enterprise M3 LEP (including all of Surrey)-SOC11,11,Corporate managers and directors,1479.0838709677419,-2.0516129032258053,-0.003320583815247365,17319.0
+Buckinghamshire-SOC11,11,Corporate managers and directors,362.64516129032256,-0.2983870967741934,-0.00011915414219850696,4273.0
+Cambridgeshire and Peterborough-SOC11,11,Corporate managers and directors,820.483870967742,-1.8991935483870963,-0.0016564819384580476,9333.0
+West Midlands and Warwickshire-SOC11,11,Corporate managers and directors,2245.348387096774,-10.162903225806447,-0.02293006243550134,24143.0
+Liverpool City Region-SOC11,11,Corporate managers and directors,642.7870967741935,-2.0854838709677415,-0.0013882445989080337,7123.0
+Greater London-SOC11,11,Corporate managers and directors,11832.509677419355,23.40161290322581,0.3277977522368181,149887.0
+Tees Valley-SOC11,11,Corporate managers and directors,268.9225806451613,-1.896370967741935,-0.0004692858845457535,2648.0
+Norfolk and Suffolk-SOC11,11,Corporate managers and directors,696.9741935483871,-2.3270161290322577,-0.0016590643111852037,7629.0
+Hertfordshire-SOC12,12,Other managers and proprietors,556.0322580645161,-4.074596774193547,-0.0020611940345841703,5413.0
+West Yorkshire-SOC12,12,Other managers and proprietors,681.6258064516129,0.4104838709677421,0.00032162039395694666,8384.0
+Enterprise M3 LEP (including all of Surrey)-SOC12,12,Other managers and proprietors,1074.4838709677417,-2.0383064516129026,-0.002358230959168679,12380.0
+Cornwall and the Isles of Scilly-SOC12,12,Other managers and proprietors,232.10322580645163,-1.2181451612903222,-0.00027515151449925804,2417.0
+Cambridgeshire and Peterborough-SOC12,12,Other managers and proprietors,439.59354838709675,-1.9040322580645153,-0.0008409384924239378,4726.0
+Gloucestershire-SOC12,12,Other managers and proprietors,332.81935483870967,0.5455645161290321,0.0002135761182278719,4189.0
+Worcestershire-SOC12,12,Other managers and proprietors,232.4516129032258,-1.258064516129032,-0.00028405082559913283,2416.0
+Lancashire-SOC12,12,Other managers and proprietors,416.1096774193548,-1.2830645161290322,-0.0005549298131072243,4628.0
+North East-SOC12,12,Other managers and proprietors,234.5225806451613,-1.3008064516129028,-0.0002928503146476973,2409.0
+Oxfordshire-SOC12,12,Other managers and proprietors,510.94193548387096,-3.732258064516128,-0.001754778057663384,5031.0
+The Marches-SOC12,12,Other managers and proprietors,251.90967741935484,-1.8612903225806445,-0.000427555217587005,2458.0
+"Essex, SouthendonSea and Thurrock-SOC12",12,Other managers and proprietors,643.8193548387096,-2.4040322580645146,-0.0015908568342930395,7081.0
+Swindon and Wiltshire-SOC12,12,Other managers and proprietors,315.5612903225807,0.7915322580645157,0.0002991410257090866,4044.0
+Buckinghamshire-SOC12,12,Other managers and proprietors,241.39354838709676,-1.329032258064516,-0.00030938942297693286,2491.0
+Liverpool City Region-SOC12,12,Other managers and proprietors,427.43870967741935,-1.5314516129032256,-0.0006718039880001549,4694.0
+South East Midlands-SOC12,12,Other managers and proprietors,720.3225806451613,0.25403225806451557,0.00020965004799010074,8831.0
+Dorset-SOC12,12,Other managers and proprietors,330.6838709677419,-1.764516129032257,-0.0005665979520153731,3436.0
+Heart of the SouthWest-SOC12,12,Other managers and proprietors,732.4516129032257,-0.14314516129032276,-0.00011855083867209112,8862.0
+West of England and North Somerset-SOC12,12,Other managers and proprietors,677.6193548387097,-3.133467741935483,-0.002121289208130937,7244.0
+Hull and East Yorkshire-SOC12,12,Other managers and proprietors,182.17419354838708,0.32379032258064494,7.035306691009465e-05,2325.0
+Solent-SOC12,12,Other managers and proprietors,474.73548387096776,-2.7112903225806444,-0.001244855667382681,4913.0
+Derbyshire and Nottinghamshire-SOC12,12,Other managers and proprietors,688.3870967741935,0.881048387096774,0.0007120519074787397,8648.0
+Greater Manchester-SOC12,12,Other managers and proprietors,1056.741935483871,0.6512096774193536,0.0007947434924184652,13059.0
+"Brighton and Hove, East Sussex, West Sussex-SOC12",12,Other managers and proprietors,796.9806451612903,1.5334677419354834,0.0014409633411433741,10055.0
+South Yorkshire-SOC12,12,Other managers and proprietors,332.73548387096776,0.5508064516129029,0.00021614296559257403,4199.0
+Norfolk and Suffolk-SOC12,12,Other managers and proprietors,556.7354838709676,-0.8786290322580643,-0.0005304375740806611,6460.0
+StokeonTrent and Staffordshire-SOC12,12,Other managers and proprietors,361.58064516129036,-0.2842741935483871,-0.00011325280873477272,4263.0
+Kent and Medway-SOC12,12,Other managers and proprietors,760.232258064516,-0.8471774193548383,-0.0007126254791823983,9001.0
+Thames Valley Berkshire-SOC12,12,Other managers and proprietors,545.8838709677419,-0.7870967741935486,-0.00046642529883074473,6341.0
+North of Tyne-SOC12,12,Other managers and proprietors,279.8838709677419,-0.7467741935483869,-0.00021948566656785598,3145.0
+Cumbria-SOC12,12,Other managers and proprietors,196.00645161290322,-0.20000000000000004,-4.353070461332951e-05,2329.0
+West Midlands and Warwickshire-SOC12,12,Other managers and proprietors,1291.3419354838709,-8.741129032258062,-0.010639996273551252,13025.0
+Leicester and Leicestershire-SOC12,12,Other managers and proprietors,360.83225806451617,-0.28387096774193543,-0.00011322481032627005,4268.0
+York and North Yorkshire-SOC12,12,Other managers and proprietors,372.45161290322585,-0.5645161290322581,-0.00022801180372506385,4322.0
+Tees Valley-SOC12,12,Other managers and proprietors,159.16774193548386,-0.19395161290322585,-3.3532145095648194e-05,1850.0
+Greater Lincolnshire-SOC12,12,Other managers and proprietors,373.05806451612904,-0.5177419354838709,-0.00020994193987739778,4339.0
+Cheshire and Warrington-SOC12,12,Other managers and proprietors,382.7161290322581,-0.9056451612903225,-0.00036469581354802995,4309.0
+Greater London-SOC12,12,Other managers and proprietors,5396.7483870967735,-11.089112903225807,-0.06469940186626856,62432.0
+Hull and East Yorkshire-SOC21,21,"Science, research, engineering and technology professionals",363.7032258064516,0.4641129032258061,0.00019452808117978682,4485.0
+Enterprise M3 LEP (including all of Surrey)-SOC21,21,"Science, research, engineering and technology professionals",3119.335483870968,-23.02298387096774,-0.06640856614526258,30865.0
+Heart of the SouthWest-SOC21,21,"Science, research, engineering and technology professionals",1380.2451612903226,-0.2854838709677425,-0.00044538767904763767,16694.0
+North of Tyne-SOC21,21,"Science, research, engineering and technology professionals",1131.7612903225806,-1.4487903225806447,-0.0017951986779578069,13259.0
+Derbyshire and Nottinghamshire-SOC21,21,"Science, research, engineering and technology professionals",2111.4645161290323,-1.9665322580645161,-0.004585117088198797,24949.0
+Dorset-SOC21,21,"Science, research, engineering and technology professionals",688.4129032258064,1.0528225806451614,0.0008560922636175315,8701.0
+Leicester and Leicestershire-SOC21,21,"Science, research, engineering and technology professionals",1110.1548387096775,-0.7919354838709671,-0.0009769221275222333,13200.0
+West of England and North Somerset-SOC21,21,"Science, research, engineering and technology professionals",2942.296774193548,-17.64959677419354,-0.050096154749674264,30372.0
+Cheshire and Warrington-SOC21,21,"Science, research, engineering and technology professionals",1364.8451612903227,-8.44798387096774,-0.011030821724303847,13972.0
+Cumbria-SOC21,21,"Science, research, engineering and technology professionals",373.7548387096774,0.4971774193548385,0.00021386936670023725,4603.0
+Oxfordshire-SOC21,21,"Science, research, engineering and technology professionals",2037.374193548387,-0.6766129032258071,-0.0015477281310550906,24477.0
+The Marches-SOC21,21,"Science, research, engineering and technology professionals",528.683870967742,-0.5830645161290321,-0.00034061386613893203,6251.0
+Thames Valley Berkshire-SOC21,21,"Science, research, engineering and technology professionals",2200.890322580645,-2.761290322580644,-0.006637113551382555,25720.0
+Greater London-SOC21,21,"Science, research, engineering and technology professionals",26699.44516129032,18.857258064516124,0.582082638245522,330301.0
+Hertfordshire-SOC21,21,"Science, research, engineering and technology professionals",1825.5032258064516,-11.319758064516128,-0.019690182205141266,18613.0
+Tees Valley-SOC21,21,"Science, research, engineering and technology professionals",484.34193548387094,-2.654435483870967,-0.001249759797772115,5038.0
+Swindon and Wiltshire-SOC21,21,"Science, research, engineering and technology professionals",1076.3419354838709,0.49475806451612864,0.0006099114899689438,13191.0
+York and North Yorkshire-SOC21,21,"Science, research, engineering and technology professionals",814.3870967741935,-0.49193548387096725,-0.00044584771211762304,9698.0
+Lancashire-SOC21,21,"Science, research, engineering and technology professionals",1098.348387096774,-0.5056451612903224,-0.0006221039113232534,13165.0
+South Yorkshire-SOC21,21,"Science, research, engineering and technology professionals",1137.741935483871,-1.8387096774193548,-0.002278004779176846,13257.0
+"Brighton and Hove, East Sussex, West Sussex-SOC21",21,"Science, research, engineering and technology professionals",1868.8129032258064,5.435080645161289,0.012248177226733322,24114.0
+Solent-SOC21,21,"Science, research, engineering and technology professionals",1389.3548387096773,0.42137096774193616,0.0006653810475774804,16897.0
+Greater Manchester-SOC21,21,"Science, research, engineering and technology professionals",4992.354838709678,4.905241935483866,0.02837253751886973,61893.0
+Gloucestershire-SOC21,21,"Science, research, engineering and technology professionals",1277.0064516129032,-5.877419354838707,-0.0075134126394773276,13679.0
+Kent and Medway-SOC21,21,"Science, research, engineering and technology professionals",1377.2064516129033,0.5536290322580646,0.0008721066373055836,16856.0
+North East-SOC21,21,"Science, research, engineering and technology professionals",718.0322580645161,-0.11088709677419398,-9.016674549782537e-05,8701.0
+Worcestershire-SOC21,21,"Science, research, engineering and technology professionals",536.7354838709678,-3.989516129032257,-0.0019420964544464472,5209.0
+Greater Lincolnshire-SOC21,21,"Science, research, engineering and technology professionals",649.2709677419355,-0.9443548387096771,-0.0006629595055468094,7512.0
+West Yorkshire-SOC21,21,"Science, research, engineering and technology professionals",2817.5870967741935,-5.972177419354837,-0.01803458671965982,32313.0
+Norfolk and Suffolk-SOC21,21,"Science, research, engineering and technology professionals",1256.3935483870966,-4.708064516129031,-0.006033524689907036,13713.0
+"Essex, SouthendonSea and Thurrock-SOC21",21,"Science, research, engineering and technology professionals",1257.032258064516,-4.883064516129031,-0.006258705074496069,13715.0
+StokeonTrent and Staffordshire-SOC21,21,"Science, research, engineering and technology professionals",937.4774193548387,-3.9209677419354834,-0.003733908455462994,10190.0
+Cambridgeshire and Peterborough-SOC21,21,"Science, research, engineering and technology professionals",2405.4258064516125,-6.4822580645161265,-0.016681655725823155,27537.0
+Cornwall and the Isles of Scilly-SOC21,21,"Science, research, engineering and technology professionals",258.52258064516127,-0.046774193548386744,-1.3550777520250602e-05,3100.0
+Buckinghamshire-SOC21,21,"Science, research, engineering and technology professionals",517.6774193548388,-0.16935483870967755,-9.861695157410043e-05,6231.0
+West Midlands and Warwickshire-SOC21,21,"Science, research, engineering and technology professionals",4861.477419354838,-7.088306451612902,-0.03762392457359282,56797.0
+Liverpool City Region-SOC21,21,"Science, research, engineering and technology professionals",1263.3870967741937,-5.296370967741934,-0.006740435215340981,13618.0
+South East Midlands-SOC21,21,"Science, research, engineering and technology professionals",2269.0129032258064,-4.8616935483870956,-0.011796105992198132,25963.0
+South Yorkshire-SOC22,22,Health professionals,978.2774193548387,0.7588709677419344,0.0008536550454927323,12037.0
+Cumbria-SOC22,22,Health professionals,483.46451612903223,-2.474596774193548,-0.001168788400382505,5054.0
+West Midlands and Warwickshire-SOC22,22,Health professionals,2920.7999999999997,-9.886693548387095,-0.02963191964990048,32071.0
+West of England and North Somerset-SOC22,22,Health professionals,1570.090322580645,-1.828225806451614,-0.0031490165769660987,18431.0
+Dorset-SOC22,22,Health professionals,783.025806451613,1.6999999999999988,0.0015764787659783514,9923.0
+Cornwall and the Isles of Scilly-SOC22,22,Health professionals,541.5290322580646,0.6665322580645154,0.0004195222367852128,6735.0
+Liverpool City Region-SOC22,22,Health professionals,1455.4774193548387,-0.13669354838709666,-0.00022507408107572764,17619.0
+Worcestershire-SOC22,22,Health professionals,504.26451612903224,0.654838709677419,0.00038517429418529365,6294.0
+Greater Lincolnshire-SOC22,22,Health professionals,1035.258064516129,1.7338709677419346,0.00211797974348984,13071.0
+South East Midlands-SOC22,22,Health professionals,1673.7032258064514,-5.241532258064514,-0.009118866253744477,18616.0
+Enterprise M3 LEP (including all of Surrey)-SOC22,22,Health professionals,2224.9483870967742,1.7471774193548377,0.004494774212739541,27528.0
+Greater Manchester-SOC22,22,Health professionals,2925.2967741935486,-13.119354838709672,-0.03854460513355363,31438.0
+Greater London-SOC22,22,Health professionals,11104.406451612904,28.14395161290321,0.37480230048670965,142502.0
+Kent and Medway-SOC22,22,Health professionals,1925.1225806451614,1.9419354838709668,0.004333764748487634,23880.0
+West Yorkshire-SOC22,22,Health professionals,1794.5870967741935,0.8403225806451611,0.0017181841754333636,21879.0
+Cambridgeshire and Peterborough-SOC22,22,Health professionals,1244.5483870967741,-0.2661290322580648,-0.00037030024329629734,14889.0
+Swindon and Wiltshire-SOC22,22,Health professionals,713.8129032258064,2.8967741935483855,0.0025658281171205472,9478.0
+Norfolk and Suffolk-SOC22,22,Health professionals,1714.1677419354837,-6.835080645161288,-0.011907822694440035,18642.0
+North of Tyne-SOC22,22,Health professionals,710.1032258064517,2.967338709677417,0.0026150200773233574,9430.0
+Gloucestershire-SOC22,22,Health professionals,696.0774193548388,3.0596774193548373,0.0026549342015091885,9285.0
+York and North Yorkshire-SOC22,22,Health professionals,995.9935483870968,1.2866935483870963,0.0014900908258724992,12392.0
+Solent-SOC22,22,Health professionals,1249.9548387096775,-3.8116935483870957,-0.004955685746924116,13912.0
+The Marches-SOC22,22,Health professionals,741.6516129032259,1.3383064516129022,0.0011690256143549458,9347.0
+Buckinghamshire-SOC22,22,Health professionals,584.4838709677418,0.13709677419354818,9.085125571377413e-05,7091.0
+Oxfordshire-SOC22,22,Health professionals,1180.2709677419355,-1.4705645161290317,-0.0018914436405391662,13763.0
+Heart of the SouthWest-SOC22,22,Health professionals,1772.4451612903226,1.875403225806451,0.003833182634819993,21871.0
+Hertfordshire-SOC22,22,Health professionals,1269.825806451613,3.164112903225805,0.004828450389788038,16329.0
+"Essex, SouthendonSea and Thurrock-SOC22",22,Health professionals,1854.8580645161292,3.8697580645161263,0.008526094650875636,23576.0
+Derbyshire and Nottinghamshire-SOC22,22,Health professionals,2027.948387096774,-0.9584677419354836,-0.0021729343640160222,24259.0
+Thames Valley Berkshire-SOC22,22,Health professionals,1236.3032258064518,-3.1661290322580635,-0.004116665767250765,13913.0
+Leicester and Leicestershire-SOC22,22,Health professionals,714.8645161290323,2.659677419354838,0.0023332001558698146,9387.0
+North East-SOC22,22,Health professionals,768.7612903225806,0.28104838709677366,0.00024762636577103334,9428.0
+Hull and East Yorkshire-SOC22,22,Health professionals,482.4258064516129,1.4451612903225801,0.0008470685988863525,6272.0
+Tees Valley-SOC22,22,Health professionals,593.2193548387097,2.639516129032257,0.0019622788227095333,7955.0
+Lancashire-SOC22,22,Health professionals,1616.3612903225805,-2.943951612903225,-0.005110959757919865,18577.0
+StokeonTrent and Staffordshire-SOC22,22,Health professionals,974.6387096774193,0.9157258064516122,0.00103129937036998,12051.0
+"Brighton and Hove, East Sussex, West Sussex-SOC22",22,Health professionals,2234.3161290322582,0.010483870967742594,2.6394623488000552e-05,26940.0
+Cheshire and Warrington-SOC22,22,Health professionals,1126.2967741935483,-0.22217741935483887,-0.0002807196555969357,13520.0
+Buckinghamshire-SOC23,23,Teaching and other educational professionals,370.6129032258064,0.25604838709677413,0.00010825322751258341,4524.0
+West Midlands and Warwickshire-SOC23,23,Teaching and other educational professionals,2044.909677419355,0.031854838709678146,7.356640242590378e-05,24712.0
+Hull and East Yorkshire-SOC23,23,Teaching and other educational professionals,288.2064516129032,-0.4846774193548386,-0.0001492918853545858,3296.0
+York and North Yorkshire-SOC23,23,Teaching and other educational professionals,409.22580645161287,-0.33669354838709675,-0.00015109606813021033,4802.0
+The Marches-SOC23,23,Teaching and other educational professionals,299.7032258064516,-0.7818548387096772,-0.00024514038594959756,3355.0
+Cornwall and the Isles of Scilly-SOC23,23,Teaching and other educational professionals,190.41290322580645,0.22822580645161247,5.09112056799625e-05,2387.0
+Worcestershire-SOC23,23,Teaching and other educational professionals,273.4967741935484,-0.04717741935483875,-1.436860990212502e-05,3259.0
+North of Tyne-SOC23,23,Teaching and other educational professionals,399.59999999999997,-0.18467741935483867,-8.125432074228547e-05,4708.0
+Swindon and Wiltshire-SOC23,23,Teaching and other educational professionals,368.6322580645161,-0.035483870967741776,-1.4686992881181113e-05,4429.0
+Greater London-SOC23,23,Teaching and other educational professionals,8865.109677419356,68.30161290322577,0.8145900600546037,127618.0
+South Yorkshire-SOC23,23,Teaching and other educational professionals,592.167741935484,0.5883064516129026,0.00040156937839972806,7304.0
+Thames Valley Berkshire-SOC23,23,Teaching and other educational professionals,743.3741935483871,3.1278225806451596,0.002889448758078474,9885.0
+Heart of the SouthWest-SOC23,23,Teaching and other educational professionals,724.2322580645161,3.1245967741935474,0.0028190156526493224,9654.0
+Solent-SOC23,23,Teaching and other educational professionals,498.89032258064515,-2.7935483870967732,-0.0013358811689119547,5117.0
+Tees Valley-SOC23,23,Teaching and other educational professionals,329.2516129032258,1.1455645161290318,0.0004614164099276666,4310.0
+Greater Lincolnshire-SOC23,23,Teaching and other educational professionals,599.7870967741935,2.7512096774193537,0.0020861950306944395,8114.0
+Kent and Medway-SOC23,23,Teaching and other educational professionals,1142.3225806451615,2.741935483870966,0.003750641178627876,14637.0
+Lancashire-SOC23,23,Teaching and other educational professionals,753.7354838709678,2.66774193548387,0.0024681708741167638,9900.0
+West Yorkshire-SOC23,23,Teaching and other educational professionals,1177.5483870967741,2.4637096774193536,0.0034386737164594236,14935.0
+Cheshire and Warrington-SOC23,23,Teaching and other educational professionals,491.0064516129033,1.9592741935483862,0.0011881443445582813,6489.0
+Cumbria-SOC23,23,Teaching and other educational professionals,170.74193548387098,1.0705645161290314,0.00023881493123728017,2387.0
+Enterprise M3 LEP (including all of Surrey)-SOC23,23,Teaching and other educational professionals,1172.0322580645163,1.0846774193548374,0.0014625238114217348,14428.0
+Leicester and Leicestershire-SOC23,23,Teaching and other educational professionals,513.7161290322581,1.699193548387096,0.001061708845051917,6686.0
+Oxfordshire-SOC23,23,Teaching and other educational professionals,502.3032258064517,1.5173387096774185,0.0009232651559801657,6511.0
+Liverpool City Region-SOC23,23,Teaching and other educational professionals,793.9290322580645,1.4923387096774188,0.0013999444668336245,10038.0
+North East-SOC23,23,Teaching and other educational professionals,476.3741935483871,1.426209677419354,0.000825030949810051,6190.0
+StokeonTrent and Staffordshire-SOC23,23,Teaching and other educational professionals,514.3612903225807,1.4189516129032254,0.0008775877685442666,6618.0
+South East Midlands-SOC23,23,Teaching and other educational professionals,807.9935483870968,1.1858870967741932,0.0011193371816998854,10100.0
+Hertfordshire-SOC23,23,Teaching and other educational professionals,699.5225806451613,3.150806451612902,0.00276522057321067,9391.0
+Norfolk and Suffolk-SOC23,23,Teaching and other educational professionals,565.8387096774193,0.927419354838709,0.0006183088645933744,7134.0
+West of England and North Somerset-SOC23,23,Teaching and other educational professionals,753.7032258064517,2.7584677419354833,0.0025531407306307314,9904.0
+Dorset-SOC23,23,Teaching and other educational professionals,338.8451612903226,0.8947580645161284,0.00036424173437917814,4356.0
+Greater Manchester-SOC23,23,Teaching and other educational professionals,1751.7225806451613,14.672580645161284,0.03534283571131088,25775.0
+"Brighton and Hove, East Sussex, West Sussex-SOC23",23,Teaching and other educational professionals,1254.9935483870968,5.6637096774193525,0.008910139814088695,16834.0
+Cambridgeshire and Peterborough-SOC23,23,Teaching and other educational professionals,574.1032258064516,0.6729838709677419,0.0004499350275639848,7154.0
+Gloucestershire-SOC23,23,Teaching and other educational professionals,488.0451612903226,0.6383064516129029,0.00035850888124440124,6010.0
+Derbyshire and Nottinghamshire-SOC23,23,Teaching and other educational professionals,958.3161290322581,3.3471774193548374,0.003914765927441454,12515.0
+"Essex, SouthendonSea and Thurrock-SOC23",23,Teaching and other educational professionals,932.3870967741937,3.4173387096774177,0.003933590806245726,12317.0
+Greater Lincolnshire-SOC24,24,"Business, media and public service professionals",654.2258064516129,3.439516129032257,0.0028826317296933215,8968.0
+North of Tyne-SOC24,24,"Business, media and public service professionals",950.1870967741936,-0.4431451612903225,-0.0004704162590543046,11359.0
+StokeonTrent and Staffordshire-SOC24,24,"Business, media and public service professionals",781.0322580645162,1.3709677419354835,0.001266228966604472,9883.0
+South Yorkshire-SOC24,24,"Business, media and public service professionals",1127.9161290322581,-0.46854838709677427,-0.000589292866557493,13458.0
+Greater London-SOC24,24,"Business, media and public service professionals",27253.483870967742,31.663306451612893,1.007778856054395,340575.0
+York and North Yorkshire-SOC24,24,"Business, media and public service professionals",816.6129032258065,0.002016129032257818,1.859463617176555e-06,9869.0
+West Yorkshire-SOC24,24,"Business, media and public service professionals",2809.0451612903225,-0.0008064516129030131,-2.541637492173605e-06,33724.0
+Cambridgeshire and Peterborough-SOC24,24,"Business, media and public service professionals",1815.206451612903,-11.617741935483867,-0.02016833936469547,18576.0
+West Midlands and Warwickshire-SOC24,24,"Business, media and public service professionals",4759.432258064516,-0.825403225806453,-0.00444455301898165,57619.0
+Kent and Medway-SOC24,24,"Business, media and public service professionals",1884.3612903225805,1.574193548387096,0.0034140772464800765,23207.0
+Oxfordshire-SOC24,24,"Business, media and public service professionals",1328.6774193548388,1.5846774193548383,0.0024463626386487585,16519.0
+Buckinghamshire-SOC24,24,"Business, media and public service professionals",607.0967741935484,-0.43145161290322576,-0.000289986638933365,7192.0
+"Brighton and Hove, East Sussex, West Sussex-SOC24",24,"Business, media and public service professionals",2265.6000000000004,11.172177419354835,0.03224956234530803,30888.0
+Lancashire-SOC24,24,"Business, media and public service professionals",1156.9419354838708,-1.0991935483870965,-0.0013979659628766633,13609.0
+Greater Manchester-SOC24,24,"Business, media and public service professionals",5143.8967741935485,3.218145161290322,0.019056556553048533,63364.0
+Thames Valley Berkshire-SOC24,24,"Business, media and public service professionals",1895.3096774193548,-7.577822580645158,-0.01453033647231743,20518.0
+Heart of the SouthWest-SOC24,24,"Business, media and public service professionals",1663.5290322580645,-5.2870967741935475,-0.009190230767872096,18600.0
+Gloucestershire-SOC24,24,"Business, media and public service professionals",885.8451612903226,-0.1536290322580642,-0.00015281795141166256,10644.0
+West of England and North Somerset-SOC24,24,"Business, media and public service professionals",2348.6387096774192,-10.261693548387093,-0.0243229291835191,25363.0
+Hertfordshire-SOC24,24,"Business, media and public service professionals",1452.5096774193548,-0.5802419354838708,-0.0009439071051182164,17407.0
+Dorset-SOC24,24,"Business, media and public service professionals",681.9935483870968,2.697983870967741,0.0022893985864377545,9080.0
+North East-SOC24,24,"Business, media and public service professionals",587.8064516129032,-0.596774193548387,-0.00038571029601913156,6916.0
+Enterprise M3 LEP (including all of Surrey)-SOC24,24,"Business, media and public service professionals",2847.4967741935484,-8.718548387096773,-0.02582608373518925,31697.0
+Liverpool City Region-SOC24,24,"Business, media and public service professionals",1421.3290322580647,-0.1334677419354836,-0.00021492305646948398,17231.0
+Worcestershire-SOC24,24,"Business, media and public service professionals",444.38709677419354,-1.3588709677419348,-0.0006284806148048352,4949.0
+Solent-SOC24,24,"Business, media and public service professionals",1302.9483870967742,-4.8455645161290315,-0.006453360599306483,14251.0
+Cornwall and the Isles of Scilly-SOC24,24,"Business, media and public service professionals",329.4129032258064,0.14758064516129019,5.525054448576608e-05,4006.0
+Hull and East Yorkshire-SOC24,24,"Business, media and public service professionals",361.10322580645163,0.4895161290322576,0.00020462661348045254,4473.0
+Norfolk and Suffolk-SOC24,24,"Business, media and public service professionals",1237.5483870967741,-1.4858870967741924,-0.002009187838656199,14469.0
+Swindon and Wiltshire-SOC24,24,"Business, media and public service professionals",823.3677419354839,1.0072580645161286,0.0009594867686575655,10193.0
+The Marches-SOC24,24,"Business, media and public service professionals",502.63870967741934,-3.3060483870967734,-0.0015618041707773829,5055.0
+South East Midlands-SOC24,24,"Business, media and public service professionals",1957.9225806451614,0.7850806451612906,0.0017609207879035235,24001.0
+Tees Valley-SOC24,24,"Business, media and public service professionals",454.7096774193548,-1.8145161290322576,-0.0008400653038346741,4954.0
+Leicester and Leicestershire-SOC24,24,"Business, media and public service professionals",1070.4322580645162,0.9044354838709672,0.0011188281231528296,13237.0
+Derbyshire and Nottinghamshire-SOC24,24,"Business, media and public service professionals",1922.3935483870969,0.6790322580645162,0.0014837123136108264,23381.0
+"Essex, SouthendonSea and Thurrock-SOC24",24,"Business, media and public service professionals",1557.1290322580644,-2.006048387096774,-0.003432996784775816,18312.0
+Cheshire and Warrington-SOC24,24,"Business, media and public service professionals",1127.858064516129,0.11774193548387087,0.0001497454369625772,13609.0
+Cumbria-SOC24,24,"Business, media and public service professionals",363.93548387096774,0.38306451612903236,0.00016012791005472007,4473.0
+"Essex, SouthendonSea and Thurrock-SOC31",31,"Science, engineering and technology associate professionals",891.8967741935484,-2.6608870967741924,-0.0024707809437890735,9936.0
+Norfolk and Suffolk-SOC31,31,"Science, engineering and technology associate professionals",809.8258064516128,-0.6967741935483868,-0.0006271329982706883,9631.0
+"Brighton and Hove, East Sussex, West Sussex-SOC31",31,"Science, engineering and technology associate professionals",1124.4774193548387,1.7665322580645157,0.0023185080381117077,14044.0
+Gloucestershire-SOC31,31,"Science, engineering and technology associate professionals",548.483870967742,0.4072580645161289,0.0002565607596681036,6741.0
+York and North Yorkshire-SOC31,31,"Science, engineering and technology associate professionals",529.5935483870968,-0.1620967741935483,-9.599625531875173e-05,6337.0
+Hull and East Yorkshire-SOC31,31,"Science, engineering and technology associate professionals",264.4,-0.2427419354838709,-7.011969659534798e-05,3091.0
+Tees Valley-SOC31,31,"Science, engineering and technology associate professionals",319.36129032258066,0.4391129032258063,0.00016307983916435945,3974.0
+Cambridgeshire and Peterborough-SOC31,31,"Science, engineering and technology associate professionals",993.1935483870967,-0.23790322580645135,-0.00026508312853345346,11923.0
+The Marches-SOC31,31,"Science, engineering and technology associate professionals",359.78709677419357,-0.17822580645161296,-7.108716784689118e-05,4268.0
+Dorset-SOC31,31,"Science, engineering and technology associate professionals",420.60645161290324,-1.0116935483870966,-0.00044909560286976577,4750.0
+Liverpool City Region-SOC31,31,"Science, engineering and technology associate professionals",657.4387096774194,2.016935483870967,0.0016261028738914023,8627.0
+Kent and Medway-SOC31,31,"Science, engineering and technology associate professionals",1049.5032258064516,2.081451612903226,0.002593135797725666,13331.0
+Enterprise M3 LEP (including all of Surrey)-SOC31,31,"Science, engineering and technology associate professionals",1584.141935483871,-2.371774193548387,-0.004086578142376394,18437.0
+Lancashire-SOC31,31,"Science, engineering and technology associate professionals",671.7935483870968,2.339516129032258,0.0019327448352748943,8840.0
+Leicester and Leicestershire-SOC31,31,"Science, engineering and technology associate professionals",640.2129032258065,2.557258064516128,0.0020433223452053,8550.0
+Cheshire and Warrington-SOC31,31,"Science, engineering and technology associate professionals",712.4516129032259,0.9939516129032252,0.0008315369057023516,8952.0
+South East Midlands-SOC31,31,"Science, engineering and technology associate professionals",1327.374193548387,-7.549596774193546,-0.009729359153464144,13790.0
+Hertfordshire-SOC31,31,"Science, engineering and technology associate professionals",822.083870967742,-0.9124999999999999,-0.0008261581966363605,9688.0
+Buckinghamshire-SOC31,31,"Science, engineering and technology associate professionals",353.7225806451613,0.08185483870967737,3.2847521830943175e-05,4294.0
+Greater Manchester-SOC31,31,"Science, engineering and technology associate professionals",1987.8774193548388,3.8423387096774158,0.009054933753233182,25217.0
+Worcestershire-SOC31,31,"Science, engineering and technology associate professionals",323.5870967741935,-0.8794354838709676,-0.00029973396643289416,3647.0
+North East-SOC31,31,"Science, engineering and technology associate professionals",509.22580645161287,-3.6935483870967727,-0.001736923287914955,5032.0
+South Yorkshire-SOC31,31,"Science, engineering and technology associate professionals",570.1806451612903,0.13790322580645148,8.914323974635794e-05,6917.0
+Solent-SOC31,31,"Science, engineering and technology associate professionals",740.258064516129,0.6028225806451604,0.0005145163525673303,9133.0
+Greater London-SOC31,31,"Science, engineering and technology associate professionals",7586.858064516129,24.964516129032237,0.233626775948095,100139.0
+Heart of the SouthWest-SOC31,31,"Science, engineering and technology associate professionals",905.3612903225805,-2.0669354838709673,-0.001990347849001578,10304.0
+Thames Valley Berkshire-SOC31,31,"Science, engineering and technology associate professionals",976.4709677419355,-1.4064516129032256,-0.001491821526956899,11350.0
+West of England and North Somerset-SOC31,31,"Science, engineering and technology associate professionals",1107.0709677419354,0.05604838709677368,6.997868711403262e-05,13360.0
+Greater Lincolnshire-SOC31,31,"Science, engineering and technology associate professionals",513.316129032258,-3.6508064516129024,-0.0017386591138762813,5096.0
+West Yorkshire-SOC31,31,"Science, engineering and technology associate professionals",1285.141935483871,-4.4524193548387085,-0.005894398751594449,14166.0
+Derbyshire and Nottinghamshire-SOC31,31,"Science, engineering and technology associate professionals",1295.5354838709677,-4.62016129032258,-0.006165256410570627,14279.0
+Cumbria-SOC31,31,"Science, engineering and technology associate professionals",261.43870967741935,-1.3439516129032256,-0.0003401171299062515,2708.0
+Swindon and Wiltshire-SOC31,31,"Science, engineering and technology associate professionals",503.9096774193548,-3.2766129032258053,-0.0015534104137131354,5073.0
+West Midlands and Warwickshire-SOC31,31,"Science, engineering and technology associate professionals",2092.6709677419353,-2.0701612903225803,-0.004795394745197796,24787.0
+StokeonTrent and Staffordshire-SOC31,31,"Science, engineering and technology associate professionals",603.2387096774193,-1.1600806451612902,-0.0007524998855720493,6941.0
+Cornwall and the Isles of Scilly-SOC31,31,"Science, engineering and technology associate professionals",202.31612903225806,-0.2919354838709678,-6.479577849296743e-05,2375.0
+Oxfordshire-SOC31,31,"Science, engineering and technology associate professionals",886.941935483871,-2.1616935483870963,-0.0020236155730575726,10017.0
+North of Tyne-SOC31,31,"Science, engineering and technology associate professionals",504.21290322580643,-3.4528225806451602,-0.001628237385131272,5046.0
+Cambridgeshire and Peterborough-SOC32,32,Health and social care associate professionals,415.8451612903226,-0.8512096774193547,-0.0003755491347077909,4721.0
+South East Midlands-SOC32,32,Health and social care associate professionals,667.5354838709678,3.1661290322580635,0.0026561711056285573,8977.0
+West Yorkshire-SOC32,32,Health and social care associate professionals,788.0451612903225,-0.48467741935483855,-0.0004257264655484684,9399.0
+Dorset-SOC32,32,Health and social care associate professionals,282.6322580645162,-0.47500000000000003,-0.0001441358823373839,3247.0
+Gloucestershire-SOC32,32,Health and social care associate professionals,292.98064516129034,-0.8717741935483869,-0.0002645346159706485,3247.0
+StokeonTrent and Staffordshire-SOC32,32,Health and social care associate professionals,354.2838709677419,0.4560483870967734,0.00018688598529239273,4385.0
+Norfolk and Suffolk-SOC32,32,Health and social care associate professionals,549.8,0.5145161290322579,0.000326726730887464,6795.0
+North East-SOC32,32,Health and social care associate professionals,331.06451612903226,0.6290322580645157,0.00024707483857474227,4203.0
+Greater London-SOC32,32,Health and social care associate professionals,4728.612903225807,6.784274193548382,0.03729720658514244,58827.0
+South Yorkshire-SOC32,32,Health and social care associate professionals,405.76774193548385,-0.5499999999999999,-0.00024162905391368413,4701.0
+West of England and North Somerset-SOC32,32,Health and social care associate professionals,588.9161290322581,-0.559274193548387,-0.0003635637433081429,6956.0
+Lancashire-SOC32,32,Health and social care associate professionals,601.2129032258064,-0.7068548387096772,-0.000464388838545012,7030.0
+Heart of the SouthWest-SOC32,32,Health and social care associate professionals,668.9741935483871,3.1124999999999985,0.002615833915315863,8993.0
+Solent-SOC32,32,Health and social care associate professionals,408.741935483871,-0.7822580645161287,-0.0003406686571025428,4660.0
+Enterprise M3 LEP (including all of Surrey)-SOC32,32,Health and social care associate professionals,908.4451612903225,-0.36048387096774187,-0.0003662280010173664,10871.0
+"Brighton and Hove, East Sussex, West Sussex-SOC32",32,Health and social care associate professionals,816.8903225806451,0.9987903225806447,0.0009502071992263312,10180.0
+Cheshire and Warrington-SOC32,32,Health and social care associate professionals,376.8967741935484,-0.2798387096774192,-0.00011606233409511006,4438.0
+West Midlands and Warwickshire-SOC32,32,Health and social care associate professionals,1320.8193548387096,1.7028225806451596,0.0026347976179921717,16557.0
+Greater Lincolnshire-SOC32,32,Health and social care associate professionals,396.7096774193548,-0.13709677419354818,-6.0178867308926405e-05,4697.0
+Hertfordshire-SOC32,32,Health and social care associate professionals,433.0193548387097,-1.174596774193548,-0.0005338131722438605,4863.0
+Oxfordshire-SOC32,32,Health and social care associate professionals,377.8903225806452,0.01290322580645156,5.46251587690638e-06,4530.0
+North of Tyne-SOC32,32,Health and social care associate professionals,333.1225806451613,1.0286290322580642,0.0004141242717478289,4308.0
+Leicester and Leicestershire-SOC32,32,Health and social care associate professionals,357.541935483871,0.1737903225806451,7.073102658342091e-05,4355.0
+Hull and East Yorkshire-SOC32,32,Health and social care associate professionals,194.03225806451613,0.02419354838709674,5.367554922092623e-06,2374.0
+Swindon and Wiltshire-SOC32,32,Health and social care associate professionals,314.26451612903224,-1.1858870967741932,-0.0003781364815801989,3412.0
+Cumbria-SOC32,32,Health and social care associate professionals,167.7935483870968,1.0895161290322575,0.000241006155269608,2367.0
+Kent and Medway-SOC32,32,Health and social care associate professionals,699.4967741935484,2.0072580645161286,0.0016997128377711796,9061.0
+Cornwall and the Isles of Scilly-SOC32,32,Health and social care associate professionals,230.64516129032256,-0.9758064516129029,-0.00022497229951265154,2467.0
+The Marches-SOC32,32,Health and social care associate professionals,245.27096774193546,0.0012096774193546623,3.3778968212321907e-07,2988.0
+Tees Valley-SOC32,32,Health and social care associate professionals,244.67096774193547,-1.3665322580645156,-0.00032182267586386713,2520.0
+Buckinghamshire-SOC32,32,Health and social care associate professionals,252.7032258064516,-0.017741935483870996,-5.0603637698538076e-06,3052.0
+Derbyshire and Nottinghamshire-SOC32,32,Health and social care associate professionals,793.5870967741936,-0.24637096774193584,-0.00022013498093785482,9561.0
+Thames Valley Berkshire-SOC32,32,Health and social care associate professionals,436.6258064516129,-1.6459677419354835,-0.0007308067714202964,4751.0
+"Essex, SouthendonSea and Thurrock-SOC32",32,Health and social care associate professionals,628.0,0.9294354838709667,0.0006843630641522169,7879.0
+Worcestershire-SOC32,32,Health and social care associate professionals,199.79354838709676,-0.26935483870967736,-5.938119528849081e-05,2359.0
+York and North Yorkshire-SOC32,32,Health and social care associate professionals,361.45161290322585,0.11088709677419355,4.5233633386737866e-05,4365.0
+Liverpool City Region-SOC32,32,Health and social care associate professionals,538.3225806451613,0.30846774193548326,0.00018982864440406227,6585.0
+Greater Manchester-SOC32,32,Health and social care associate professionals,1236.5096774193548,-0.10645161290322626,-0.00014678702639094325,14755.0
+Derbyshire and Nottinghamshire-SOC33,33,Protective service occupations,135.85806451612902,-0.8983870967741933,-0.00011267102215486402,1342.0
+Cumbria-SOC33,33,Protective service occupations,42.20645161290322,-1.3354838709677415,-1.1107718543073575e-05,89.0
+Hull and East Yorkshire-SOC33,33,Protective service occupations,42.5032258064516,-1.3499999999999994,-1.122845461419394e-05,89.0
+Greater London-SOC33,33,Protective service occupations,1020.8838709677419,-2.0370967741935484,-0.002229471139561574,11711.0
+Tees Valley-SOC33,33,Protective service occupations,44.64516129032258,-1.3911290322580643,-1.261058870175722e-05,97.0
+The Marches-SOC33,33,Protective service occupations,40.87096774193547,-1.4213709677419348,-8.368434142963497e-06,63.0
+Cornwall and the Isles of Scilly-SOC33,33,Protective service occupations,47.06451612903225,-1.4979838709677413,-1.3579228123776252e-05,97.0
+West of England and North Somerset-SOC33,33,Protective service occupations,134.92258064516128,-0.5153225806451611,-6.98302164148403e-05,1450.0
+North of Tyne-SOC33,33,Protective service occupations,46.0774193548387,-1.4524193548387092,-1.316618565325493e-05,97.0
+South East Midlands-SOC33,33,Protective service occupations,142.8258064516129,-1.140322580645161,-0.0001430133081929782,1342.0
+North East-SOC33,33,Protective service occupations,43.47096774193548,-1.5294354838709674,-9.004672540215759e-06,63.0
+Norfolk and Suffolk-SOC33,33,Protective service occupations,118.88387096774193,-0.7588709677419353,-8.425207228091445e-05,1188.0
+West Midlands and Warwickshire-SOC33,33,Protective service occupations,178.03870967741935,-0.760483870967742,-0.00013410906063076992,1887.0
+York and North Yorkshire-SOC33,33,Protective service occupations,49.567741935483866,-1.6080645161290317,-1.4577109490610952e-05,97.0
+Swindon and Wiltshire-SOC33,33,Protective service occupations,49.70967741935483,-1.612903225806451,-1.4620972407834458e-05,97.0
+Buckinghamshire-SOC33,33,Protective service occupations,51.81290322580644,-1.695967741935483,-1.5373952486837927e-05,97.0
+Solent-SOC33,33,Protective service occupations,111.76774193548387,-0.5116935483870966,-5.700099141949993e-05,1192.0
+West Yorkshire-SOC33,33,Protective service occupations,138.38709677419354,-0.94758064516129,-0.00011892917517460293,1343.0
+Worcestershire-SOC33,33,Protective service occupations,40.064516129032256,-1.3427419354838706,-9.41130891457901e-06,75.0
+Cheshire and Warrington-SOC33,33,Protective service occupations,73.10322580645162,1.1427419354838706,0.00012719092897507526,1191.0
+Liverpool City Region-SOC33,33,Protective service occupations,73.10322580645162,1.1427419354838706,0.00012719092897507526,1191.0
+Greater Lincolnshire-SOC33,33,Protective service occupations,62.26451612903226,0.43104838709677407,3.468369740443945e-05,861.0
+Greater Manchester-SOC33,33,Protective service occupations,210.58709677419358,2.453225806451612,0.0007478555035403656,3262.0
+Dorset-SOC33,33,Protective service occupations,63.70967741935484,0.36895161290322537,2.9687168498654878e-05,861.0
+Heart of the SouthWest-SOC33,33,Protective service occupations,99.91612903225806,0.3600806451612902,4.303943240384253e-05,1279.0
+Gloucestershire-SOC33,33,Protective service occupations,88.01935483870967,0.4947580645161292,5.506819684277256e-05,1191.0
+South Yorkshire-SOC33,33,Protective service occupations,60.25806451612904,0.5221774193548382,4.2016265798642704e-05,861.0
+Lancashire-SOC33,33,Protective service occupations,60.193548387096776,0.5241935483870966,4.217849076311626e-05,861.0
+"Essex, SouthendonSea and Thurrock-SOC33",33,Protective service occupations,87.10322580645162,0.5439516129032258,6.049276602067201e-05,1190.0
+Leicester and Leicestershire-SOC33,33,Protective service occupations,62.7483870967742,0.4088709677419353,3.289922279523068e-05,861.0
+Hertfordshire-SOC33,33,Protective service occupations,86.60000000000001,0.5754032258064516,6.388294747336076e-05,1188.0
+Enterprise M3 LEP (including all of Surrey)-SOC33,33,Protective service occupations,167.98064516129034,1.5092741935483867,0.0003497969672986094,2480.0
+"Brighton and Hove, East Sussex, West Sussex-SOC33",33,Protective service occupations,98.71612903225807,3.2838709677419353,0.0006638023970695375,2163.0
+Cambridgeshire and Peterborough-SOC33,33,Protective service occupations,84.38064516129033,0.6657258064516122,7.428411129311751e-05,1194.0
+Kent and Medway-SOC33,33,Protective service occupations,175.5483870967742,1.2177419354838699,0.00027984013627735063,2459.0
+StokeonTrent and Staffordshire-SOC33,33,Protective service occupations,58.412903225806446,0.607258064516129,4.886215929942546e-05,861.0
+Thames Valley Berkshire-SOC33,33,Protective service occupations,83.98064516129033,0.8782258064516123,0.00010300211280889333,1255.0
+Oxfordshire-SOC33,33,Protective service occupations,98.93548387096774,0.03427419354838676,3.824439406368827e-06,1194.0
+Greater Manchester-SOC34,34,"Culture, media and sports occupations",752.7290322580644,0.7387096774193547,0.0006450640382463172,9344.0
+Enterprise M3 LEP (including all of Surrey)-SOC34,34,"Culture, media and sports occupations",543.8709677419356,1.83266129032258,0.0012178928985312983,7111.0
+Hertfordshire-SOC34,34,"Culture, media and sports occupations",325.9677419354839,0.8165322580645159,0.00032072214622682905,4203.0
+Cornwall and the Isles of Scilly-SOC34,34,"Culture, media and sports occupations",114.33548387096774,-0.6096774193548385,-6.76881685912554e-05,1188.0
+Thames Valley Berkshire-SOC34,34,"Culture, media and sports occupations",318.2516129032258,1.4258064516129025,0.0005694968235756563,4274.0
+Norfolk and Suffolk-SOC34,34,"Culture, media and sports occupations",260.3806451612903,-0.23346774193548392,-6.68516077988484e-05,3064.0
+Solent-SOC34,34,"Culture, media and sports occupations",255.78709677419354,-0.9161290322580642,-0.00023741203386158115,2773.0
+Dorset-SOC34,34,"Culture, media and sports occupations",165.29032258064518,1.2036290322580636,0.000266248472790444,2367.0
+Heart of the SouthWest-SOC34,34,"Culture, media and sports occupations",319.3741935483871,1.1802419354838702,0.0004694278737829511,4256.0
+StokeonTrent and Staffordshire-SOC34,34,"Culture, media and sports occupations",183.2774193548387,0.42419354838709655,9.371470533059516e-05,2364.0
+West Yorkshire-SOC34,34,"Culture, media and sports occupations",504.4838709677419,-3.502016129032257,-0.0016560173080719944,5060.0
+North of Tyne-SOC34,34,"Culture, media and sports occupations",180.40645161290323,0.7286290322580646,0.00016369565341974314,2404.0
+Worcestershire-SOC34,34,"Culture, media and sports occupations",114.58064516129032,-0.6854838709677418,-7.51435079341822e-05,1173.0
+Leicester and Leicestershire-SOC34,34,"Culture, media and sports occupations",240.4774193548387,-1.1145161290322576,-0.00026268039027915383,2522.0
+Greater London-SOC34,34,"Culture, media and sports occupations",4586.935483870968,0.052419354838710686,0.0002725582890915573,55638.0
+Buckinghamshire-SOC34,34,"Culture, media and sports occupations",152.8967741935484,-0.10645161290322583,-1.8374492561441616e-05,1847.0
+The Marches-SOC34,34,"Culture, media and sports occupations",141.71612903225807,-1.1697580645161285,-0.0001444092719116592,1321.0
+Hull and East Yorkshire-SOC34,34,"Culture, media and sports occupations",101.25806451612902,-0.06451612903225802,-7.186886230985017e-06,1192.0
+Kent and Medway-SOC34,34,"Culture, media and sports occupations",394.5354838709677,-0.17258064516129032,-7.523846888899599e-05,4665.0
+Cumbria-SOC34,34,"Culture, media and sports occupations",109.99354838709678,-0.4391129032258063,-4.891574440964179e-05,1192.0
+South Yorkshire-SOC34,34,"Culture, media and sports occupations",242.38709677419354,-1.268145161290322,-0.00029663748564759363,2503.0
+South East Midlands-SOC34,34,"Culture, media and sports occupations",385.36129032258066,0.005645161290322518,2.4267799563518786e-06,4600.0
+Lancashire-SOC34,34,"Culture, media and sports occupations",263.3354838709677,-0.46653225806451587,-0.00013088460865398225,3002.0
+Liverpool City Region-SOC34,34,"Culture, media and sports occupations",253.71612903225807,0.03185483870967729,9.121376539048362e-06,3064.0
+Cambridgeshire and Peterborough-SOC34,34,"Culture, media and sports occupations",254.6774193548387,-0.20362903225806436,-5.747021912161939e-05,3020.0
+Greater Lincolnshire-SOC34,34,"Culture, media and sports occupations",192.85806451612905,0.05927419354838715,1.315604894815776e-05,2375.0
+"Brighton and Hove, East Sussex, West Sussex-SOC34",34,"Culture, media and sports occupations",427.8709677419355,-0.29032258064516125,-0.00013758485767446533,5071.0
+Cheshire and Warrington-SOC34,34,"Culture, media and sports occupations",251.59354838709675,-1.4544354838709672,-0.0003466018326324746,2550.0
+Oxfordshire-SOC34,34,"Culture, media and sports occupations",269.10967741935485,-0.5592741935483869,-0.00016103218705180967,3081.0
+"Essex, SouthendonSea and Thurrock-SOC34",34,"Culture, media and sports occupations",366.0516129032258,-0.23306451612903206,-9.455013563544485e-05,4341.0
+Swindon and Wiltshire-SOC34,34,"Culture, media and sports occupations",176.8516129032258,-0.5451612903225805,-9.863398425329711e-05,1936.0
+Derbyshire and Nottinghamshire-SOC34,34,"Culture, media and sports occupations",391.30967741935484,-0.22903225806451602,-9.845792965770583e-05,4600.0
+North East-SOC34,34,"Culture, media and sports occupations",169.67096774193547,-0.5197580645161292,-9.126919696371062e-05,1879.0
+Gloucestershire-SOC34,34,"Culture, media and sports occupations",189.1032258064516,0.1931451612903227,4.281487989204287e-05,2372.0
+York and North Yorkshire-SOC34,34,"Culture, media and sports occupations",187.36129032258066,0.27580645161290307,6.116435099554937e-05,2373.0
+Tees Valley-SOC34,34,"Culture, media and sports occupations",137.24516129032259,-0.9487903225806451,-0.00011925833546837212,1345.0
+West Midlands and Warwickshire-SOC34,34,"Culture, media and sports occupations",728.3032258064517,0.23508064516129015,0.00019440493340187754,8849.0
+West of England and North Somerset-SOC34,34,"Culture, media and sports occupations",355.79999999999995,0.2362903225806453,9.616793869578815e-05,4355.0
+Cumbria-SOC35,35,Business and public service associate professionals,472.51612903225805,-2.401209677419354,-0.0011177452668046045,4981.0
+"Essex, SouthendonSea and Thurrock-SOC35",35,Business and public service associate professionals,2289.4709677419355,0.04717741935483825,0.00012142114658009171,27540.0
+StokeonTrent and Staffordshire-SOC35,35,Business and public service associate professionals,1394.7612903225806,0.6258064516129019,0.0009998405771373497,17096.0
+Buckinghamshire-SOC35,35,Business and public service associate professionals,863.2129032258064,-1.7048387096774185,-0.001575070932140319,9886.0
+Dorset-SOC35,35,Business and public service associate professionals,988.0516129032258,-3.0032258064516117,-0.0030872861531676837,11000.0
+Tees Valley-SOC35,35,Business and public service associate professionals,633.516129032258,0.5887096774193543,0.00042924311087590096,7802.0
+Swindon and Wiltshire-SOC35,35,Business and public service associate professionals,1153.0516129032258,-0.9205645161290318,-0.0011706116130320104,13607.0
+Worcestershire-SOC35,35,Business and public service associate professionals,703.6129032258065,1.0564516129032253,0.0008744449377691164,8857.0
+Cornwall and the Isles of Scilly-SOC35,35,Business and public service associate professionals,488.72258064516126,-3.248790322580644,-0.0015074299802460408,4965.0
+West Midlands and Warwickshire-SOC35,35,Business and public service associate professionals,6350.0,-28.052419354838698,-0.18229300087750244,69535.0
+Heart of the SouthWest-SOC35,35,Business and public service associate professionals,1893.7677419354839,0.3814516129032256,0.0008249669642143074,23142.0
+Cheshire and Warrington-SOC35,35,Business and public service associate professionals,1777.1032258064517,-3.558870967741935,-0.006734270968154335,20248.0
+North East-SOC35,35,Business and public service associate professionals,986.6258064516129,-3.5249999999999986,-0.0035801808383968832,10868.0
+Kent and Medway-SOC35,35,Business and public service associate professionals,2792.1290322580644,-7.8850806451612865,-0.02301526890306105,31233.0
+Solent-SOC35,35,Business and public service associate professionals,1866.8645161290322,-7.737499999999996,-0.01457909229042063,20162.0
+Norfolk and Suffolk-SOC35,35,Business and public service associate professionals,1821.1935483870968,3.2258064516129012,0.006897481416314481,22880.0
+Hertfordshire-SOC35,35,Business and public service associate professionals,2244.367741935484,-7.238709677419353,-0.016883681539629266,24958.0
+Oxfordshire-SOC35,35,Business and public service associate professionals,1844.8451612903227,-7.089112903225806,-0.013244105299483595,19991.0
+West of England and North Somerset-SOC35,35,Business and public service associate professionals,2837.948387096774,-11.514919354838707,-0.03324860483591284,30897.0
+Derbyshire and Nottinghamshire-SOC35,35,Business and public service associate professionals,2869.064516129032,-12.453629032258062,-0.036116187929755406,31032.0
+Thames Valley Berkshire-SOC35,35,Business and public service associate professionals,2541.812903225806,-13.855241935483864,-0.03481001522019109,26884.0
+Leicester and Leicestershire-SOC35,35,Business and public service associate professionals,1638.3999999999999,-5.611693548387095,-0.00955674579968026,18223.0
+Gloucestershire-SOC35,35,Business and public service associate professionals,1341.7677419354839,-4.799999999999998,-0.006683355617353328,14899.0
+"Brighton and Hove, East Sussex, West Sussex-SOC35",35,Business and public service associate professionals,2772.5548387096774,-7.966129032258061,-0.02328459237737321,31277.0
+Greater Manchester-SOC35,35,Business and public service associate professionals,6104.6322580645165,-15.255241935483868,-0.10060724941786899,70569.0
+North of Tyne-SOC35,35,Business and public service associate professionals,1240.9612903225805,-4.459274193548385,-0.005693855722951418,13663.0
+Lancashire-SOC35,35,Business and public service associate professionals,1887.2451612903226,-14.045564516129028,-0.0246101080681893,18749.0
+York and North Yorkshire-SOC35,35,Business and public service associate professionals,1247.7483870967742,-4.44798387096774,-0.005712278336599883,13742.0
+Greater London-SOC35,35,Business and public service associate professionals,27026.025806451613,44.24637096774192,1.40295056619384,339288.0
+Enterprise M3 LEP (including all of Surrey)-SOC35,35,Business and public service associate professionals,3887.948387096774,-20.60967741935483,-0.07933589812923993,41191.0
+The Marches-SOC35,35,Business and public service associate professionals,703.6967741935483,1.2245967741935484,0.0010169407087583602,8886.0
+South East Midlands-SOC35,35,Business and public service associate professionals,2913.232258064516,-15.363306451612898,-0.04424571979247636,30817.0
+Greater Lincolnshire-SOC35,35,Business and public service associate professionals,1042.090322580645,-3.884677419354837,-0.0041440700668591126,11415.0
+South Yorkshire-SOC35,35,Business and public service associate professionals,1523.7548387096774,-3.914112903225805,-0.006322647146468676,17285.0
+Liverpool City Region-SOC35,35,Business and public service associate professionals,1769.3419354838709,-9.24314516129032,-0.016090105840857502,18627.0
+Hull and East Yorkshire-SOC35,35,Business and public service associate professionals,539.6129032258065,1.4092741935483866,0.0009142738985589635,6942.0
+West Yorkshire-SOC35,35,Business and public service associate professionals,3591.761290322581,-20.156451612903222,-0.07006587212323284,37196.0
+Cambridgeshire and Peterborough-SOC35,35,Business and public service associate professionals,1884.432258064516,1.3399193548387094,0.0029096197837830697,23236.0
+Lancashire-SOC41,41,Administrative occupations,1813.090322580645,-11.570161290322575,-0.020041407392736854,18535.0
+Cambridgeshire and Peterborough-SOC41,41,Administrative occupations,1879.483870967742,-13.909274193548383,-0.02421792037993015,18631.0
+Worcestershire-SOC41,41,Administrative occupations,783.9096774193549,-0.08306451612903246,-7.279066186407835e-05,9377.0
+Heart of the SouthWest-SOC41,41,Administrative occupations,1892.8129032258064,-0.09717741935483833,-0.0002084768280031274,22956.0
+Derbyshire and Nottinghamshire-SOC41,41,Administrative occupations,2826.2258064516127,-9.784274193548384,-0.02864557193163752,31328.0
+Liverpool City Region-SOC41,41,Administrative occupations,1773.0516129032258,-9.599999999999996,-0.01667003567031911,18581.0
+South East Midlands-SOC41,41,Administrative occupations,2677.8967741935485,-9.352419354838705,-0.025729330505402114,29438.0
+Enterprise M3 LEP (including all of Surrey)-SOC41,41,Administrative occupations,3515.0,-16.495967741935477,-0.057683895589459445,37418.0
+Thames Valley Berkshire-SOC41,41,Administrative occupations,1905.1032258064515,-14.570967741935481,-0.025624657758081044,18818.0
+Greater Manchester-SOC41,41,Administrative occupations,4862.309677419355,15.303225806451607,0.0904750813063985,63263.0
+Cheshire and Warrington-SOC41,41,Administrative occupations,1717.1806451612904,-7.589919354838707,-0.013151234691529116,18541.0
+Gloucestershire-SOC41,41,Administrative occupations,1362.6387096774192,-9.019758064516127,-0.011642538188389707,13812.0
+West of England and North Somerset-SOC41,41,Administrative occupations,2122.2129032258063,-3.1947580645161273,-0.0074010475649383895,24789.0
+Hertfordshire-SOC41,41,Administrative occupations,2028.7870967741935,-1.16008064516129,-0.0026341290476507824,24297.0
+"Brighton and Hove, East Sussex, West Sussex-SOC41",41,Administrative occupations,2523.935483870968,0.9274193548387093,0.002689132203776091,31027.0
+York and North Yorkshire-SOC41,41,Administrative occupations,1228.0967741935483,-3.832661290322579,-0.004898416905319371,13676.0
+Swindon and Wiltshire-SOC41,41,Administrative occupations,983.5225806451613,-2.1798387096774188,-0.002272428084056651,11155.0
+Tees Valley-SOC41,41,Administrative occupations,637.3806451612904,0.6758064516129029,0.0004996316374123766,7911.0
+North of Tyne-SOC41,41,Administrative occupations,1046.6387096774195,1.4540322580645149,0.0017845725094312265,13133.0
+Hull and East Yorkshire-SOC41,41,Administrative occupations,550.2516129032258,0.5931451612903225,0.00037893023457710257,6836.0
+Kent and Medway-SOC41,41,Administrative occupations,2760.258064516129,-4.604838709677417,-0.013767833392228713,31993.0
+Cumbria-SOC41,41,Administrative occupations,501.36129032258066,1.572177419354838,0.0009635387375263015,6558.0
+Cornwall and the Isles of Scilly-SOC41,41,Administrative occupations,489.683870967742,1.6427419354838702,0.0009842180681195803,6411.0
+Norfolk and Suffolk-SOC41,41,Administrative occupations,1920.2774193548387,2.033064516129032,0.004538084924474221,23885.0
+Dorset-SOC41,41,Administrative occupations,1025.9354838709678,2.237903225806452,0.002740364015727307,13103.0
+Solent-SOC41,41,Administrative occupations,1688.9741935483871,-6.552822580645159,-0.011326062605623145,18495.0
+South Yorkshire-SOC41,41,Administrative occupations,1375.632258064516,-7.005241935483867,-0.009571207335659594,14620.0
+Leicester and Leicestershire-SOC41,41,Administrative occupations,1525.4645161290323,-1.8616935483870967,-0.003128370972584944,17981.0
+North East-SOC41,41,Administrative occupations,977.2967741935483,-3.2745967741935473,-0.003320961398091506,10852.0
+"Essex, SouthendonSea and Thurrock-SOC41",41,Administrative occupations,2061.5225806451613,-1.6999999999999997,-0.003891390798536104,24494.0
+Oxfordshire-SOC41,41,Administrative occupations,1729.4645161290323,-7.732661290322578,-0.013423136996374081,18575.0
+West Yorkshire-SOC41,41,Administrative occupations,3097.9806451612903,-9.035080645161287,-0.029410787805034585,34832.0
+StokeonTrent and Staffordshire-SOC41,41,Administrative occupations,1312.7032258064514,-0.3806451612903237,-0.0005686647847334805,15986.0
+Greater London-SOC41,41,Administrative occupations,16832.23870967742,-189.85362903225797,-2.5992248293923184,146497.0
+Greater Lincolnshire-SOC41,41,Administrative occupations,1082.0451612903225,-0.39193548387096794,-0.00047671077609047057,13015.0
+The Marches-SOC41,41,Administrative occupations,762.6,-0.7633064516129029,-0.0006440012292107744,9028.0
+West Midlands and Warwickshire-SOC41,41,Administrative occupations,4807.825806451613,-0.9326612903225812,-0.005047034002651005,57905.0
+Buckinghamshire-SOC41,41,Administrative occupations,835.3612903225807,-0.9499999999999997,-0.0008696982466134969,9796.0
+Oxfordshire-SOC42,42,Secretarial and related occupations,274.9032258064516,-1.743951612903225,-0.00044656142659546967,2740.0
+Dorset-SOC42,42,Secretarial and related occupations,237.56129032258065,-2.4685483870967735,-0.00048146010505039033,2087.0
+Swindon and Wiltshire-SOC42,42,Secretarial and related occupations,180.80645161290323,-1.004032258064516,-0.00017583829563861243,1874.0
+Greater Lincolnshire-SOC42,42,Secretarial and related occupations,188.4064516129032,-0.9951612903225805,-0.00018163181827229828,1953.0
+North East-SOC42,42,Secretarial and related occupations,155.8709677419355,-2.185483870967741,-0.0002452939438427984,1201.0
+Derbyshire and Nottinghamshire-SOC42,42,Secretarial and related occupations,461.9935483870968,-2.469354838709677,-0.0011190046676263629,4849.0
+Cheshire and Warrington-SOC42,42,Secretarial and related occupations,233.8322580645161,-2.485483870967741,-0.0004743106756404707,2042.0
+"Brighton and Hove, East Sussex, West Sussex-SOC42",42,Secretarial and related occupations,559.0258064516129,0.1475806451612899,9.360595242758203e-05,6787.0
+Solent-SOC42,42,Secretarial and related occupations,281.01290322580644,-2.1318548387096765,-0.0005389160423458691,2705.0
+South East Midlands-SOC42,42,Secretarial and related occupations,379.9096774193548,-0.5669354838709676,-0.00023169108852907444,4373.0
+Hertfordshire-SOC42,42,Secretarial and related occupations,342.5741935483871,-1.4975806451612899,-0.0005127927735545423,3664.0
+Kent and Medway-SOC42,42,Secretarial and related occupations,509.916129032258,-3.5149193548387085,-0.0016673746382677216,5076.0
+West Yorkshire-SOC42,42,Secretarial and related occupations,473.3225806451613,-2.7116935483870965,-0.00124478738593422,4912.0
+Thames Valley Berkshire-SOC42,42,Secretarial and related occupations,290.23870967741937,-1.3092741935483865,-0.0003807732307588612,3112.0
+Cornwall and the Isles of Scilly-SOC42,42,Secretarial and related occupations,164.69032258064513,-1.7185483870967733,-0.00023994327086822813,1494.0
+Buckinghamshire-SOC42,42,Secretarial and related occupations,160.67096774193547,-1.916935483870967,-0.0002441740828685303,1363.0
+West of England and North Somerset-SOC42,42,Secretarial and related occupations,368.85161290322577,-0.49677419354838687,-0.00019944332803020103,4296.0
+The Marches-SOC42,42,Secretarial and related occupations,144.0774193548387,-1.9020161290322577,-0.00020654587988941104,1162.0
+York and North Yorkshire-SOC42,42,Secretarial and related occupations,266.7354838709677,-1.7838709677419347,-0.00043644476881096836,2618.0
+Greater Manchester-SOC42,42,Secretarial and related occupations,724.2064516129032,1.0052419354838706,0.0008506585374904174,9055.0
+"Essex, SouthendonSea and Thurrock-SOC42",42,Secretarial and related occupations,357.9806451612903,-0.3455645161290321,-0.00013615260530519475,4216.0
+Heart of the SouthWest-SOC42,42,Secretarial and related occupations,436.2774193548387,-1.805645161290322,-0.0007919161053547235,4693.0
+Tees Valley-SOC42,42,Secretarial and related occupations,144.27096774193546,-1.8314516129032252,-0.00020196386308797228,1180.0
+South Yorkshire-SOC42,42,Secretarial and related occupations,233.39999999999998,-1.8314516129032254,-0.00038390249568332364,2243.0
+Worcestershire-SOC42,42,Secretarial and related occupations,143.2,-1.8471774193548383,-0.0002014539001508712,1167.0
+West Midlands and Warwickshire-SOC42,42,Secretarial and related occupations,852.4,-1.8516129032258055,-0.0016893891500320162,9763.0
+Hull and East Yorkshire-SOC42,42,Secretarial and related occupations,92.47096774193547,-3.319758064516128,-3.381653808214799e-05,109.0
+Norfolk and Suffolk-SOC42,42,Secretarial and related occupations,363.80645161290323,-0.5282258064516125,-0.0002060973024266716,4175.0
+Gloucestershire-SOC42,42,Secretarial and related occupations,232.96774193548384,-2.534274193548386,-0.0004784110293766595,2020.0
+StokeonTrent and Staffordshire-SOC42,42,Secretarial and related occupations,187.2,-1.2040322580645157,-0.0002119899311362147,1884.0
+Cumbria-SOC42,42,Secretarial and related occupations,104.04516129032258,-0.40806451612903216,-4.374097529898855e-05,1147.0
+Cambridgeshire and Peterborough-SOC42,42,Secretarial and related occupations,288.23870967741937,-1.2467741935483867,-0.0003616643734801931,3104.0
+Lancashire-SOC42,42,Secretarial and related occupations,340.8451612903226,-1.2967741935483867,-0.0004516686679160332,3727.0
+North of Tyne-SOC42,42,Secretarial and related occupations,184.19354838709677,-1.0927419354838706,-0.00019239541640292762,1884.0
+Greater London-SOC42,42,Secretarial and related occupations,3762.277419354839,-19.531451612903222,-0.07236708272196188,39647.0
+Enterprise M3 LEP (including all of Surrey)-SOC42,42,Secretarial and related occupations,616.0516129032258,-0.14032258064516137,-9.639848279164159e-05,7351.0
+Leicester and Leicestershire-SOC42,42,Secretarial and related occupations,185.8258064516129,-1.1504032258064514,-0.00020254764686256552,1884.0
+Liverpool City Region-SOC42,42,Secretarial and related occupations,284.4,-1.1459677419354832,-0.0003314585749731644,3095.0
+West Yorkshire-SOC51,51,Skilled agricultural and related trades,67.96774193548384,-2.5927419354838697,-1.8657189816605455e-05,77.0
+"Brighton and Hove, East Sussex, West Sussex-SOC51",51,Skilled agricultural and related trades,108.50967741935483,0.23024193548387087,2.9133945571027538e-05,1354.0
+Worcestershire-SOC51,51,Skilled agricultural and related trades,17.909677419354836,-0.6294354838709676,-2.647036615433844e-06,45.0
+Thames Valley Berkshire-SOC51,51,Skilled agricultural and related trades,94.17419354838708,-3.506854838709677,-3.2772834286323786e-05,100.0
+Enterprise M3 LEP (including all of Surrey)-SOC51,51,Skilled agricultural and related trades,176.51612903225805,0.6229838709677417,0.0001355946343298267,2329.0
+Cornwall and the Isles of Scilly-SOC51,51,Skilled agricultural and related trades,24.761290322580642,-0.884274193548387,-4.710402505030194e-06,57.0
+West of England and North Somerset-SOC51,51,Skilled agricultural and related trades,27.66451612903225,-0.9487903225806448,-6.1180856113886055e-06,69.0
+Cheshire and Warrington-SOC51,51,Skilled agricultural and related trades,67.00645161290322,-2.5850806451612898,-1.570303741476994e-05,65.0
+Solent-SOC51,51,Skilled agricultural and related trades,67.26451612903226,-2.6012096774193547,-1.5801013003069863e-05,65.0
+West Midlands and Warwickshire-SOC51,51,Skilled agricultural and related trades,99.65161290322578,-3.7423387096774183,-2.972748922153218e-05,85.0
+Heart of the SouthWest-SOC51,51,Skilled agricultural and related trades,96.26451612903224,-1.2080645161290318,-9.822128092904295e-05,870.0
+York and North Yorkshire-SOC51,51,Skilled agricultural and related trades,83.97419354838709,-3.2020161290322573,-2.2742244287852117e-05,76.0
+Kent and Medway-SOC51,51,Skilled agricultural and related trades,143.00645161290322,-1.7262096774193543,-0.00019245544529222062,1193.0
+Hertfordshire-SOC51,51,Skilled agricultural and related trades,89.58709677419354,-3.1999999999999993,-3.2596628959058234e-05,109.0
+"Essex, SouthendonSea and Thurrock-SOC51",51,Skilled agricultural and related trades,114.45806451612901,-4.099193548387095,-5.976118983942019e-05,156.0
+Oxfordshire-SOC51,51,Skilled agricultural and related trades,89.58709677419354,-3.1999999999999993,-3.2596628959058234e-05,109.0
+North East-SOC51,51,Skilled agricultural and related trades,24.0258064516129,-0.9028225806451611,-3.7967424612148476e-06,45.0
+Gloucestershire-SOC51,51,Skilled agricultural and related trades,25.987096774193542,-0.9326612903225803,-4.968153668096141e-06,57.0
+StokeonTrent and Staffordshire-SOC51,51,Skilled agricultural and related trades,25.329032258064508,-0.9076612903225801,-4.8349822338454e-06,57.0
+Hull and East Yorkshire-SOC51,51,Skilled agricultural and related trades,20.587096774193544,-0.6959677419354836,-3.7073208954318802e-06,57.0
+Tees Valley-SOC51,51,Skilled agricultural and related trades,20.587096774193544,-0.6959677419354836,-3.7073208954318802e-06,57.0
+Cambridgeshire and Peterborough-SOC51,51,Skilled agricultural and related trades,26.154838709677414,-0.9391129032258061,-5.002520489838267e-06,57.0
+Lancashire-SOC51,51,Skilled agricultural and related trades,66.71612903225807,-2.579032258064516,-1.5666296569157475e-05,65.0
+Buckinghamshire-SOC51,51,Skilled agricultural and related trades,25.69032258064516,-0.9221774193548385,-4.912307582765186e-06,57.0
+The Marches-SOC51,51,Skilled agricultural and related trades,23.077419354838703,-0.8596774193548384,-3.615299208267108e-06,45.0
+Swindon and Wiltshire-SOC51,51,Skilled agricultural and related trades,36.89677419354837,-1.39274193548387,-7.418937643581524e-06,57.0
+Liverpool City Region-SOC51,51,Skilled agricultural and related trades,24.670967741935478,-0.8786290322580641,-4.680331536005832e-06,57.0
+North of Tyne-SOC51,51,Skilled agricultural and related trades,33.69677419354838,-1.2572580645161284,-6.697234386996872e-06,57.0
+South Yorkshire-SOC51,51,Skilled agricultural and related trades,33.812903225806444,-1.2584677419354833,-6.70367816607352e-06,57.0
+Greater London-SOC51,51,Skilled agricultural and related trades,883.8258064516128,-18.335887096774186,-0.007822380202180793,4565.0
+Cumbria-SOC51,51,Skilled agricultural and related trades,22.032258064516125,-0.758064516129032,-4.038101554699846e-06,57.0
+Norfolk and Suffolk-SOC51,51,Skilled agricultural and related trades,99.10967741935481,-3.615725806451611,-3.784510585844787e-05,112.0
+South East Midlands-SOC51,51,Skilled agricultural and related trades,98.3548387096774,-3.5947580645161277,-3.6617810883317055e-05,109.0
+Derbyshire and Nottinghamshire-SOC51,51,Skilled agricultural and related trades,99.49032258064514,-3.643548387096773,-3.7114810896427694e-05,109.0
+Greater Lincolnshire-SOC51,51,Skilled agricultural and related trades,35.135483870967725,-1.2766129032258056,-8.231984294796564e-06,69.0
+Greater Manchester-SOC51,51,Skilled agricultural and related trades,111.85806451612905,3.869758064516128,0.0009077238536519282,2510.0
+Dorset-SOC51,51,Skilled agricultural and related trades,35.17419354838709,-1.3153225806451607,-7.0065357826760095e-06,57.0
+Leicester and Leicestershire-SOC51,51,Skilled agricultural and related trades,34.16129032258063,-1.276209677419354,-6.798186925864368e-06,57.0
+"Brighton and Hove, East Sussex, West Sussex-SOC52",52,"Skilled metal, electrical and electronic trades",1246.348387096774,4.306854838709677,0.006616956204577405,16440.0
+"Essex, SouthendonSea and Thurrock-SOC52",52,"Skilled metal, electrical and electronic trades",1348.3935483870966,-8.45806451612903,-0.010892220482949527,13780.0
+Tees Valley-SOC52,52,"Skilled metal, electrical and electronic trades",438.6967741935484,-2.170564516129032,-0.0009408050849438853,4638.0
+Thames Valley Berkshire-SOC52,52,"Skilled metal, electrical and electronic trades",1254.2129032258065,-4.624193548387095,-0.005936413095564244,13737.0
+Hertfordshire-SOC52,52,"Skilled metal, electrical and electronic trades",1089.3548387096776,0.47580645161290325,0.0005908176681747884,13287.0
+Hull and East Yorkshire-SOC52,52,"Skilled metal, electrical and electronic trades",347.9612903225806,0.05887096774193565,2.3206196381370893e-05,4218.0
+West Yorkshire-SOC52,52,"Skilled metal, electrical and electronic trades",1860.090322580645,-0.1467741935483869,-0.00030851337048585684,22492.0
+Buckinghamshire-SOC52,52,"Skilled metal, electrical and electronic trades",436.3806451612903,-1.8846774193548383,-0.0008262256490606131,4691.0
+The Marches-SOC52,52,"Skilled metal, electrical and electronic trades",508.34838709677416,-1.18508064516129,-0.0006349303100997006,5733.0
+Greater Lincolnshire-SOC52,52,"Skilled metal, electrical and electronic trades",739.1483870967742,0.5209677419354837,0.00044241268799182805,9087.0
+Derbyshire and Nottinghamshire-SOC52,52,"Skilled metal, electrical and electronic trades",1897.0193548387097,0.6762096774193544,0.0014553636800629403,23030.0
+South East Midlands-SOC52,52,"Skilled metal, electrical and electronic trades",1950.4967741935484,1.402419354838709,0.0031564777194784824,24084.0
+Solent-SOC52,52,"Skilled metal, electrical and electronic trades",1008.4129032258064,-1.2657258064516126,-0.001398976581069977,11827.0
+Gloucestershire-SOC52,52,"Skilled metal, electrical and electronic trades",728.9612903225807,0.9479838709677418,0.0008039773147865484,9075.0
+Enterprise M3 LEP (including all of Surrey)-SOC52,52,"Skilled metal, electrical and electronic trades",1876.3870967741934,4.169354838709677,0.009356458411956857,24013.0
+Swindon and Wiltshire-SOC52,52,"Skilled metal, electrical and electronic trades",713.2,1.3846774193548386,0.0011682515695244586,9028.0
+Cheshire and Warrington-SOC52,52,"Skilled metal, electrical and electronic trades",865.6645161290322,-1.8701612903225804,-0.00172151775714235,9850.0
+North East-SOC52,52,"Skilled metal, electrical and electronic trades",674.425806451613,0.18306451612903218,0.00014107293934961684,8246.0
+Oxfordshire-SOC52,52,"Skilled metal, electrical and electronic trades",1011.5548387096774,-1.238306451612903,-0.0013742253850269539,11875.0
+Cornwall and the Isles of Scilly-SOC52,52,"Skilled metal, electrical and electronic trades",303.53548387096777,-1.464919354838709,-0.00043740202799157714,3195.0
+StokeonTrent and Staffordshire-SOC52,52,"Skilled metal, electrical and electronic trades",957.9225806451612,-1.4608870967741932,-0.001522665711787539,11153.0
+North of Tyne-SOC52,52,"Skilled metal, electrical and electronic trades",569.8903225806451,-0.22701612903225796,-0.00014418042354714171,6796.0
+Liverpool City Region-SOC52,52,"Skilled metal, electrical and electronic trades",767.3612903225807,-0.20604838709677376,-0.00017727047264204547,9206.0
+Leicester and Leicestershire-SOC52,52,"Skilled metal, electrical and electronic trades",1033.8709677419354,1.3366935483870963,0.0016216968363197176,12982.0
+Norfolk and Suffolk-SOC52,52,"Skilled metal, electrical and electronic trades",1128.9612903225807,-0.31209677419354864,-0.00039468214673726723,13532.0
+Heart of the SouthWest-SOC52,52,"Skilled metal, electrical and electronic trades",1299.851612903226,1.1604838709677412,0.0017614682830275254,16242.0
+Cumbria-SOC52,52,"Skilled metal, electrical and electronic trades",329.92258064516125,-2.0415322580645157,-0.0006366616141107974,3337.0
+South Yorkshire-SOC52,52,"Skilled metal, electrical and electronic trades",1013.6709677419354,-2.6407258064516124,-0.002823225362215222,11440.0
+Lancashire-SOC52,52,"Skilled metal, electrical and electronic trades",955.0774193548386,-1.6036290322580644,-0.0016647000554388084,11108.0
+Greater Manchester-SOC52,52,"Skilled metal, electrical and electronic trades",2166.348387096774,-2.822177419354838,-0.006657921908289041,25244.0
+West of England and North Somerset-SOC52,52,"Skilled metal, electrical and electronic trades",1267.7677419354839,0.3532258064516127,0.0005110974944136051,15483.0
+York and North Yorkshire-SOC52,52,"Skilled metal, electrical and electronic trades",587.0258064516129,-0.5842741935483872,-0.0003746280888119346,6861.0
+Dorset-SOC52,52,"Skilled metal, electrical and electronic trades",549.7741935483871,0.7096774193548384,0.00045185135470529386,6813.0
+Cambridgeshire and Peterborough-SOC52,52,"Skilled metal, electrical and electronic trades",1276.9096774193547,-5.631451612903224,-0.007226872028081983,13732.0
+Worcestershire-SOC52,52,"Skilled metal, electrical and electronic trades",515.5225806451614,1.1286290322580639,0.0006985575412875983,6623.0
+West Midlands and Warwickshire-SOC52,52,"Skilled metal, electrical and electronic trades",3141.9354838709673,-22.207661290322573,-0.0653186468876081,31473.0
+Kent and Medway-SOC52,52,"Skilled metal, electrical and electronic trades",1466.9741935483871,1.0883064516129026,0.001843119706365774,18122.0
+Greater London-SOC52,52,"Skilled metal, electrical and electronic trades",6923.645161290323,18.030241935483865,0.1488774420215664,88355.0
+Greater Manchester-SOC53,53,Skilled construction and building trades,662.0129032258064,1.8036290322580635,0.001449410419537407,8599.0
+Cheshire and Warrington-SOC53,53,Skilled construction and building trades,236.2064516129032,-2.486693548387096,-0.00047942172293581045,2063.0
+Norfolk and Suffolk-SOC53,53,Skilled construction and building trades,354.18709677419355,-0.6487903225806451,-0.00024622580473628643,4061.0
+South Yorkshire-SOC53,53,Skilled construction and building trades,238.2516129032258,-2.263709677419354,-0.00045716366646875276,2161.0
+Lancashire-SOC53,53,Skilled construction and building trades,241.47741935483867,-1.8786290322580639,-0.00040643232135915774,2315.0
+North East-SOC53,53,Skilled construction and building trades,222.88387096774193,-2.3314516129032254,-0.0004277036129203609,1963.0
+Gloucestershire-SOC53,53,Skilled construction and building trades,176.83870967741933,-0.8991935483870965,-0.00015672137421536886,1865.0
+West Midlands and Warwickshire-SOC53,53,Skilled construction and building trades,745.9354838709678,1.594758064516129,0.0014098800205114455,9460.0
+"Brighton and Hove, East Sussex, West Sussex-SOC53",53,Skilled construction and building trades,467.2,-1.9943548387096768,-0.0009395401447330959,5041.0
+West Yorkshire-SOC53,53,Skilled construction and building trades,441.94193548387096,-2.0124999999999993,-0.0008894087870530823,4729.0
+Hertfordshire-SOC53,53,Skilled construction and building trades,278.0258064516129,-1.9149193548387093,-0.0004899820217207176,2738.0
+Tees Valley-SOC53,53,Skilled construction and building trades,151.3548387096774,-2.114919354838709,-0.00023361864518011967,1182.0
+Leicester and Leicestershire-SOC53,53,Skilled construction and building trades,215.3032258064516,-2.202419354838709,-0.0003955939226351532,1922.0
+Derbyshire and Nottinghamshire-SOC53,53,Skilled construction and building trades,460.39354838709676,-2.2866935483870963,-0.00103900857953536,4862.0
+Thames Valley Berkshire-SOC53,53,Skilled construction and building trades,321.341935483871,-1.5697580645161286,-0.0004943776588068749,3370.0
+Oxfordshire-SOC53,53,Skilled construction and building trades,276.741935483871,-1.6209677419354833,-0.0004238559608361486,2798.0
+Cumbria-SOC53,53,Skilled construction and building trades,101.81935483870967,-0.3495967741935482,-3.731038524384176e-05,1142.0
+West of England and North Somerset-SOC53,53,Skilled construction and building trades,374.01290322580644,-0.7064516129032257,-0.0002828977282906799,4285.0
+Worcestershire-SOC53,53,Skilled construction and building trades,90.77419354838709,-0.2258064516129031,-2.336039488418746e-05,1107.0
+Kent and Medway-SOC53,53,Skilled construction and building trades,496.71612903225804,-3.554838709677418,-0.001638472593377616,4932.0
+Dorset-SOC53,53,Skilled construction and building trades,172.7741935483871,-0.9435483870967739,-0.000161277615900501,1829.0
+Enterprise M3 LEP (including all of Surrey)-SOC53,53,Skilled construction and building trades,587.8903225806451,0.22459677419354848,0.00015049389509135165,7170.0
+StokeonTrent and Staffordshire-SOC53,53,Skilled construction and building trades,178.74193548387098,-0.9879032258064512,-0.000172182675707468,1865.0
+Cambridgeshire and Peterborough-SOC53,53,Skilled construction and building trades,254.19354838709677,-1.7096774193548383,-0.0003980009567421709,2491.0
+South East Midlands-SOC53,53,Skilled construction and building trades,394.31612903225806,-0.8302419354838707,-0.00034690099732305663,4471.0
+North of Tyne-SOC53,53,Skilled construction and building trades,223.63870967741934,-1.7254032258064513,-0.00034651595326103796,2149.0
+Cornwall and the Isles of Scilly-SOC53,53,Skilled construction and building trades,141.49032258064517,-1.7262096774193543,-0.00018987431610137774,1177.0
+Swindon and Wiltshire-SOC53,53,Skilled construction and building trades,187.9806451612903,-1.3637096774193542,-0.0002380647020113329,1868.0
+The Marches-SOC53,53,Skilled construction and building trades,136.7032258064516,-1.5943548387096769,-0.00017209299036125502,1155.0
+Hull and East Yorkshire-SOC53,53,Skilled construction and building trades,90.43225806451613,-0.18427419354838692,-1.9218740669238305e-05,1116.0
+Greater London-SOC53,53,Skilled construction and building trades,2294.032258064516,-0.7258064516129032,-0.0018613703728567732,27442.0
+Heart of the SouthWest-SOC53,53,Skilled construction and building trades,416.51612903225805,-1.1915322580645158,-0.0005163439741183103,4637.0
+Liverpool City Region-SOC53,53,Skilled construction and building trades,260.0322580645161,-1.7641129032258058,-0.0004185865699169488,2539.0
+Solent-SOC53,53,Skilled construction and building trades,289.31612903225806,-1.0379032258064511,-0.00030573086377813934,3152.0
+"Essex, SouthendonSea and Thurrock-SOC53",53,Skilled construction and building trades,347.8258064516129,-0.757258064516129,-0.00028031411202721095,3961.0
+Buckinghamshire-SOC53,53,Skilled construction and building trades,129.0774193548387,-1.2447580645161287,-0.00013668442433507048,1175.0
+Greater Lincolnshire-SOC53,53,Skilled construction and building trades,179.40645161290323,-0.9931451612903224,-0.00017346755018218438,1869.0
+York and North Yorkshire-SOC53,53,Skilled construction and building trades,176.1032258064516,-1.0487903225806448,-0.00017995236595716327,1836.0
+Liverpool City Region-SOC54,54,"Textiles, printing and other skilled trades",313.8322580645161,-1.5802419354838706,-0.00048601276685825763,3291.0
+Hertfordshire-SOC54,54,"Textiles, printing and other skilled trades",489.23225806451615,-3.5346774193548374,-0.0016093602778018514,4872.0
+"Brighton and Hove, East Sussex, West Sussex-SOC54",54,"Textiles, printing and other skilled trades",717.1806451612903,2.60766129032258,0.002302190769124134,9447.0
+"Essex, SouthendonSea and Thurrock-SOC54",54,"Textiles, printing and other skilled trades",516.5483870967741,-4.118951612903224,-0.0019208057561821766,4990.0
+Hull and East Yorkshire-SOC54,54,"Textiles, printing and other skilled trades",99.59999999999998,-1.525403225806451,-0.00011903299161528227,835.0
+Norfolk and Suffolk-SOC54,54,"Textiles, printing and other skilled trades",541.7870967741935,-1.3375,-0.0007615899099228418,6093.0
+The Marches-SOC54,54,"Textiles, printing and other skilled trades",222.3290322580645,-2.4096774193548383,-0.00043462272433193857,1930.0
+Cumbria-SOC54,54,"Textiles, printing and other skilled trades",193.19354838709677,-1.4737903225806444,-0.0002590721377766606,1881.0
+Oxfordshire-SOC54,54,"Textiles, printing and other skilled trades",495.1483870967742,-3.5677419354838698,-0.001632416797630635,4896.0
+South Yorkshire-SOC54,54,"Textiles, printing and other skilled trades",226.78064516129032,-2.441935483870967,-0.0004486564461366706,1966.0
+Worcestershire-SOC54,54,"Textiles, printing and other skilled trades",187.76129032258063,-1.4044354838709674,-0.00024294301960154177,1851.0
+Cornwall and the Isles of Scilly-SOC54,54,"Textiles, printing and other skilled trades",275.5290322580645,-2.47258064516129,-0.000584149148171747,2528.0
+Solent-SOC54,54,"Textiles, printing and other skilled trades",412.8709677419355,-1.3608870967741933,-0.000577269340044245,4539.0
+StokeonTrent and Staffordshire-SOC54,54,"Textiles, printing and other skilled trades",288.72258064516126,-2.172177419354838,-0.0005643341129989478,2780.0
+Cambridgeshire and Peterborough-SOC54,54,"Textiles, printing and other skilled trades",340.44516129032263,-0.005645161290322803,-2.186212204157107e-06,4144.0
+Cheshire and Warrington-SOC54,54,"Textiles, printing and other skilled trades",370.94193548387096,-0.5749999999999997,-0.00023031181834332295,4286.0
+West Yorkshire-SOC54,54,"Textiles, printing and other skilled trades",479.94193548387096,-2.9943548387096763,-0.0013737019316050019,4909.0
+Greater Lincolnshire-SOC54,54,"Textiles, printing and other skilled trades",281.9225806451613,-1.920564516129032,-0.0005000417029323305,2786.0
+Enterprise M3 LEP (including all of Surrey)-SOC54,54,"Textiles, printing and other skilled trades",1048.4258064516127,1.5903225806451613,0.0019659642875121917,13228.0
+Dorset-SOC54,54,"Textiles, printing and other skilled trades",317.27096774193546,-1.7588709677419343,-0.0005370062343494733,3267.0
+Gloucestershire-SOC54,54,"Textiles, printing and other skilled trades",347.541935483871,-0.808064516129032,-0.0002991211291280781,3961.0
+Thames Valley Berkshire-SOC54,54,"Textiles, printing and other skilled trades",483.39354838709676,-3.1173387096774188,-0.001423421980228749,4886.0
+Tees Valley-SOC54,54,"Textiles, printing and other skilled trades",104.48387096774194,-0.7822580645161288,-8.158502603571628e-05,1116.0
+Derbyshire and Nottinghamshire-SOC54,54,"Textiles, printing and other skilled trades",567.0967741935484,-0.47782258064516114,-0.000301103665157327,6743.0
+South East Midlands-SOC54,54,"Textiles, printing and other skilled trades",556.7677419354839,-4.731451612903223,-0.002350140813379405,5315.0
+Buckinghamshire-SOC54,54,"Textiles, printing and other skilled trades",239.52903225806452,-1.7185483870967737,-0.00037436932021006695,2331.0
+West Midlands and Warwickshire-SOC54,54,"Textiles, printing and other skilled trades",920.9354838709677,-1.9314516129032253,-0.0018952623898248302,10500.0
+Kent and Medway-SOC54,54,"Textiles, printing and other skilled trades",533.3225806451612,-1.7842741935483863,-0.0009901431795049367,5938.0
+Swindon and Wiltshire-SOC54,54,"Textiles, printing and other skilled trades",262.1161290322581,-1.9447580645161286,-0.00045836017449940635,2522.0
+West of England and North Somerset-SOC54,54,"Textiles, printing and other skilled trades",493.79354838709673,-3.259274193548385,-0.0015129036502668453,4967.0
+North of Tyne-SOC54,54,"Textiles, printing and other skilled trades",240.96129032258062,-1.890725806451612,-0.0004010981158200056,2270.0
+Leicester and Leicestershire-SOC54,54,"Textiles, printing and other skilled trades",274.72258064516126,-1.9725806451612893,-0.0004951502340035383,2686.0
+Heart of the SouthWest-SOC54,54,"Textiles, printing and other skilled trades",667.0258064516129,2.264516129032257,0.0018538548915757965,8760.0
+Greater London-SOC54,54,"Textiles, printing and other skilled trades",3667.741935483871,-13.088709677419354,-0.049371518556170946,40363.0
+Greater Manchester-SOC54,54,"Textiles, printing and other skilled trades",743.5483870967743,0.4395161290322577,0.00037496802642041636,9129.0
+North East-SOC54,54,"Textiles, printing and other skilled trades",210.18709677419355,-2.0237903225806444,-0.0003604828632511332,1906.0
+York and North Yorkshire-SOC54,54,"Textiles, printing and other skilled trades",387.9483870967742,-0.8012096774193544,-0.00032795670134981374,4380.0
+Lancashire-SOC54,54,"Textiles, printing and other skilled trades",328.94193548387096,-1.8975806451612895,-0.0005976216959530319,3370.0
+South East Midlands-SOC61,61,Caring personal service occupations,1768.2903225806451,-8.983870967741932,-0.015690825134517538,18689.0
+Buckinghamshire-SOC61,61,Caring personal service occupations,731.4193548387098,0.737903225806451,0.0006260165287590919,9078.0
+West of England and North Somerset-SOC61,61,Caring personal service occupations,1663.0451612903225,-4.7185483870967735,-0.00820504530386681,18607.0
+Gloucestershire-SOC61,61,Caring personal service occupations,1013.5225806451613,-3.115322580645161,-0.0033050011747574504,11352.0
+Swindon and Wiltshire-SOC61,61,Caring personal service occupations,1020.5870967741936,-0.288709677419356,-0.00033013914526211453,12236.0
+Cornwall and the Isles of Scilly-SOC61,61,Caring personal service occupations,713.8451612903226,1.19516129032258,0.0010029956925439573,8980.0
+Dorset-SOC61,61,Caring personal service occupations,1036.277419354839,1.7407258064516113,0.002132372206679423,13108.0
+Lancashire-SOC61,61,Caring personal service occupations,1922.9483870967742,1.7633064516129027,0.003929190835623933,23844.0
+Oxfordshire-SOC61,61,Caring personal service occupations,1139.883870967742,-0.7124999999999995,-0.0008999725526664979,13516.0
+StokeonTrent and Staffordshire-SOC61,61,Caring personal service occupations,1218.7935483870967,-3.2572580645161273,-0.004169707037586204,13698.0
+Hull and East Yorkshire-SOC61,61,Caring personal service occupations,533.0645161290322,-0.7741935483870969,-0.0004499521356090187,6219.0
+Tees Valley-SOC61,61,Caring personal service occupations,656.8709677419355,-0.6008064516129035,-0.00043306604296552737,7713.0
+Cambridgeshire and Peterborough-SOC61,61,Caring personal service occupations,1303.858064516129,-6.583870967741934,-0.008470036636810608,13766.0
+Solent-SOC61,61,Caring personal service occupations,1314.3290322580647,2.4572580645161293,0.0038379684031621788,16713.0
+West Yorkshire-SOC61,61,Caring personal service occupations,2090.348387096774,-3.3120967741935465,-0.0075261609969294015,24315.0
+North East-SOC61,61,Caring personal service occupations,1042.2516129032258,-3.795967741935483,-0.004055822399355653,11433.0
+The Marches-SOC61,61,Caring personal service occupations,883.6,-3.4588709677419343,-0.0031096080068158923,9620.0
+Norfolk and Suffolk-SOC61,61,Caring personal service occupations,1972.0451612903225,-0.13991935483870957,-0.00031230653306980714,23884.0
+Cumbria-SOC61,61,Caring personal service occupations,568.5096774193548,-0.4693548387096773,-0.00029567992500363627,6741.0
+"Brighton and Hove, East Sussex, West Sussex-SOC61",61,Caring personal service occupations,2334.5677419354843,6.829435483870964,0.01938704434067331,30376.0
+Liverpool City Region-SOC61,61,Caring personal service occupations,1807.8967741935485,-10.511693548387093,-0.01837300434993825,18703.0
+Thames Valley Berkshire-SOC61,61,Caring personal service occupations,1325.2193548387097,-1.7556451612903226,-0.002573952554365727,15688.0
+South Yorkshire-SOC61,61,Caring personal service occupations,996.6193548387097,0.6770161290322586,0.0007735343776729159,12226.0
+Kent and Medway-SOC61,61,Caring personal service occupations,2503.81935483871,-11.686290322580641,-0.02923294590861524,26767.0
+Enterprise M3 LEP (including all of Surrey)-SOC61,61,Caring personal service occupations,3016.690322580645,-14.16814516129032,-0.04247202370383398,32077.0
+Greater Manchester-SOC61,61,Caring personal service occupations,3005.567741935484,-14.48104838709677,-0.04325168068906851,31960.0
+Leicester and Leicestershire-SOC61,61,Caring personal service occupations,1017.9225806451612,-0.2612903225806453,-0.0002985409629136685,12226.0
+North of Tyne-SOC61,61,Caring personal service occupations,990.3741935483871,-0.44475806451612926,-0.0004934508851073952,11872.0
+Derbyshire and Nottinghamshire-SOC61,61,Caring personal service occupations,2388.3612903225803,-11.324999999999996,-0.02705915278856777,25567.0
+Worcestershire-SOC61,61,Caring personal service occupations,684.5096774193548,0.4258064516129033,0.00033752560022988156,8482.0
+York and North Yorkshire-SOC61,61,Caring personal service occupations,1164.0967741935483,-1.9717741935483863,-0.002473449120521829,13423.0
+Heart of the SouthWest-SOC61,61,Caring personal service occupations,2059.0193548387097,-1.0899193548387092,-0.0025058841651260295,24602.0
+"Essex, SouthendonSea and Thurrock-SOC61",61,Caring personal service occupations,1920.9612903225807,-1.191129032258064,-0.002546115805583789,22873.0
+Hertfordshire-SOC61,61,Caring personal service occupations,1421.7548387096774,0.027419354838709293,4.3999630852099736e-05,17171.0
+Cheshire and Warrington-SOC61,61,Caring personal service occupations,1413.0838709677419,-0.3580645161290317,-0.0005714044836456923,17076.0
+West Midlands and Warwickshire-SOC61,61,Caring personal service occupations,3039.2774193548385,-19.03346774193548,-0.05554492649800521,31227.0
+Greater Lincolnshire-SOC61,61,Caring personal service occupations,1381.458064516129,-10.109274193548384,-0.012897705861806791,13652.0
+Greater London-SOC61,61,Caring personal service occupations,11154.625806451613,27.799596774193528,0.3689771800098216,142025.0
+Greater Lincolnshire-SOC62,62,"Leisure, travel and related personal service occupations",170.9741935483871,-2.8915322580645157,-0.00032264770568318974,1194.0
+Hull and East Yorkshire-SOC62,62,"Leisure, travel and related personal service occupations",71.2838709677419,-2.7999999999999985,-1.3868519889691056e-05,53.0
+Gloucestershire-SOC62,62,"Leisure, travel and related personal service occupations",203.19354838709677,-1.8850806451612891,-0.00032996199786188306,1873.0
+Hertfordshire-SOC62,62,"Leisure, travel and related personal service occupations",268.3225806451613,-1.8971774193548379,-0.00046381191306159964,2616.0
+South Yorkshire-SOC62,62,"Leisure, travel and related personal service occupations",164.7225806451613,-2.702419354838709,-0.00029725243319585,1177.0
+Enterprise M3 LEP (including all of Surrey)-SOC62,62,"Leisure, travel and related personal service occupations",606.6967741935483,0.8899193548387093,0.0006287364818219724,7560.0
+South East Midlands-SOC62,62,"Leisure, travel and related personal service occupations",320.0,-1.981854838709677,-0.0006000854051695893,3240.0
+Cornwall and the Isles of Scilly-SOC62,62,"Leisure, travel and related personal service occupations",166.09677419354836,-2.689516129032257,-0.0003028708056239904,1205.0
+"Essex, SouthendonSea and Thurrock-SOC62",62,"Leisure, travel and related personal service occupations",324.89677419354837,-1.8947580645161286,-0.0005880562262185548,3321.0
+Kent and Medway-SOC62,62,"Leisure, travel and related personal service occupations",402.90967741935486,-0.9016129032258063,-0.0003832942180116555,4549.0
+Thames Valley Berkshire-SOC62,62,"Leisure, travel and related personal service occupations",258.5354838709677,-1.9044354838709672,-0.00044244939115452195,2486.0
+York and North Yorkshire-SOC62,62,"Leisure, travel and related personal service occupations",234.38709677419354,-1.9637096774193539,-0.0004041018212597697,2202.0
+Solent-SOC62,62,"Leisure, travel and related personal service occupations",222.20645161290324,-2.291129032258064,-0.00042116291337713244,1967.0
+Norfolk and Suffolk-SOC62,62,"Leisure, travel and related personal service occupations",314.7548387096774,-1.7870967741935477,-0.0005384424811081132,3224.0
+West Yorkshire-SOC62,62,"Leisure, travel and related personal service occupations",289.45806451612907,-1.7060483870967735,-0.000465713807645094,2921.0
+North East-SOC62,62,"Leisure, travel and related personal service occupations",139.66451612903225,-1.6645161290322574,-0.000179977236683424,1157.0
+Leicester and Leicestershire-SOC62,62,"Leisure, travel and related personal service occupations",174.63225806451612,-0.9467741935483868,-0.00016244834881484787,1836.0
+West of England and North Somerset-SOC62,62,"Leisure, travel and related personal service occupations",293.38709677419354,-1.651209677419354,-0.00047095885539889316,3052.0
+Worcestershire-SOC62,62,"Leisure, travel and related personal service occupations",111.00645161290322,-4.23024193548387,-2.8859199411683417e-05,73.0
+Heart of the SouthWest-SOC62,62,"Leisure, travel and related personal service occupations",364.71612903225804,-1.5689516129032248,-0.0005665560486099155,3864.0
+Greater London-SOC62,62,"Leisure, travel and related personal service occupations",3029.3612903225803,-15.885483870967736,-0.04740930417125217,31935.0
+Cambridgeshire and Peterborough-SOC62,62,"Leisure, travel and related personal service occupations",190.5548387096774,-1.4499999999999997,-0.00025163793855105553,1857.0
+Derbyshire and Nottinghamshire-SOC62,62,"Leisure, travel and related personal service occupations",352.4774193548387,-1.4270161290322576,-0.0005079676642453641,3809.0
+Greater Manchester-SOC62,62,"Leisure, travel and related personal service occupations",570.6322580645161,0.1379032258064516,8.992938079370915e-05,6978.0
+Tees Valley-SOC62,62,"Leisure, travel and related personal service occupations",106.48387096774192,-3.8729838709677407,-4.126166535414045e-05,114.0
+"Brighton and Hove, East Sussex, West Sussex-SOC62",62,"Leisure, travel and related personal service occupations",408.8709677419355,-0.7459677419354837,-0.0003250038678501285,4662.0
+Dorset-SOC62,62,"Leisure, travel and related personal service occupations",169.54838709677418,-0.7237903225806448,-0.00012418858012037986,1836.0
+Buckinghamshire-SOC62,62,"Leisure, travel and related personal service occupations",141.47096774193548,-1.8056451612903222,-0.00019523693456113684,1157.0
+Liverpool City Region-SOC62,62,"Leisure, travel and related personal service occupations",235.18709677419352,-2.049999999999999,-0.0004199432680344726,2192.0
+The Marches-SOC62,62,"Leisure, travel and related personal service occupations",103.42580645161289,-4.068951612903224,-1.8632658236611902e-05,49.0
+Cumbria-SOC62,62,"Leisure, travel and related personal service occupations",150.36774193548385,-2.1681451612903215,-0.0002348378006448378,1159.0
+Lancashire-SOC62,62,"Leisure, travel and related personal service occupations",229.0774193548387,-2.2266129032258055,-0.00042740674688781203,2054.0
+Oxfordshire-SOC62,62,"Leisure, travel and related personal service occupations",270.9548387096774,-2.2088709677419347,-0.0005268017753646881,2552.0
+West Midlands and Warwickshire-SOC62,62,"Leisure, travel and related personal service occupations",570.4580645161291,5.003629032258061,0.00393491573766289,8415.0
+StokeonTrent and Staffordshire-SOC62,62,"Leisure, travel and related personal service occupations",162.6709677419355,-2.429032258064516,-0.00027853133314933813,1227.0
+Cheshire and Warrington-SOC62,62,"Leisure, travel and related personal service occupations",239.72258064516126,-2.2064516129032246,-0.0004536420469960677,2200.0
+North of Tyne-SOC62,62,"Leisure, travel and related personal service occupations",173.2064516129032,-0.879838709677419,-0.00015096349962265675,1836.0
+Swindon and Wiltshire-SOC62,62,"Leisure, travel and related personal service occupations",154.1806451612903,-2.3096774193548373,-0.0002510309420986188,1163.0
+Buckinghamshire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+"Brighton and Hove, East Sussex, West Sussex-SOC63",63,Community and civil enforcement occupations,26.23870967741935,-0.658064516129032,-7.687315389686158e-06,125.0
+Kent and Medway-SOC63,63,Community and civil enforcement occupations,28.709677419354833,-0.9233870967741931,-6.989804566827868e-06,81.0
+West Yorkshire-SOC63,63,Community and civil enforcement occupations,11.18064516129032,-0.34193548387096756,-1.437980172894234e-06,45.0
+Gloucestershire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Lancashire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Swindon and Wiltshire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+North East-SOC63,63,Community and civil enforcement occupations,10.316129032258065,-0.35645161290322575,-1.0992861007251207e-06,33.0
+Liverpool City Region-SOC63,63,Community and civil enforcement occupations,10.599999999999998,-0.32177419354838693,-1.353193606096225e-06,45.0
+Greater Manchester-SOC63,63,Community and civil enforcement occupations,54.43225806451614,3.497177419354838,0.0005503715365444889,1684.0
+Derbyshire and Nottinghamshire-SOC63,63,Community and civil enforcement occupations,10.819354838709678,-0.3314516129032258,-1.39389115815927e-06,45.0
+Cornwall and the Isles of Scilly-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+South Yorkshire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Solent-SOC63,63,Community and civil enforcement occupations,10.096774193548384,-0.2983870967741934,-1.2548411886105343e-06,45.0
+The Marches-SOC63,63,Community and civil enforcement occupations,8.21290322580645,-0.3016129032258063,-5.91923285005834e-07,21.0
+Cumbria-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+West Midlands and Warwickshire-SOC63,63,Community and civil enforcement occupations,16.4516129032258,-0.6895161290322577,-1.3531936060962248e-06,21.0
+North of Tyne-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Cambridgeshire and Peterborough-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+South East Midlands-SOC63,63,Community and civil enforcement occupations,10.096774193548384,-0.2983870967741934,-1.2548411886105343e-06,45.0
+Norfolk and Suffolk-SOC63,63,Community and civil enforcement occupations,10.561290322580643,-0.3193548387096773,-1.343019218080464e-06,45.0
+Heart of the SouthWest-SOC63,63,Community and civil enforcement occupations,17.04516129032258,-0.5068548387096773,-3.2683525769296545e-06,69.0
+West of England and North Somerset-SOC63,63,Community and civil enforcement occupations,11.18064516129032,-0.34193548387096756,-1.437980172894234e-06,45.0
+Cheshire and Warrington-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Worcestershire-SOC63,63,Community and civil enforcement occupations,8.516129032258064,-0.2782258064516128,-8.58040055995852e-07,33.0
+Enterprise M3 LEP (including all of Surrey)-SOC63,63,Community and civil enforcement occupations,27.70322580645161,-0.5923387096774191,-9.355199048818016e-06,169.0
+"Essex, SouthendonSea and Thurrock-SOC63",63,Community and civil enforcement occupations,10.561290322580643,-0.3193548387096773,-1.343019218080464e-06,45.0
+Thames Valley Berkshire-SOC63,63,Community and civil enforcement occupations,9.651612903225804,-0.28064516129032246,-1.1802290098282864e-06,45.0
+York and North Yorkshire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Oxfordshire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Hull and East Yorkshire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Greater London-SOC63,63,Community and civil enforcement occupations,52.70967741935482,-2.348790322580644,3.2925450106560196e-06,-15.0
+StokeonTrent and Staffordshire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Dorset-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Leicester and Leicestershire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Tees Valley-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Hertfordshire-SOC63,63,Community and civil enforcement occupations,9.838709677419352,-0.286290322580645,-1.2039692485317288e-06,45.0
+Greater Lincolnshire-SOC63,63,Community and civil enforcement occupations,11.896774193548385,-0.37661290322580626,-1.5838130677868096e-06,45.0
+North East-SOC71,71,Sales occupations,384.9548387096774,-3.1342741935483853,-0.001072633952171567,3662.0
+York and North Yorkshire-SOC71,71,Sales occupations,523.8967741935484,-3.989516129032257,-0.0019010846268424715,5099.0
+Cheshire and Warrington-SOC71,71,Sales occupations,519.832258064516,-3.943145161290321,-0.001870512399635201,5076.0
+StokeonTrent and Staffordshire-SOC71,71,Sales occupations,389.18709677419355,-1.4895161290322578,-0.0005870093570575703,4217.0
+Hull and East Yorkshire-SOC71,71,Sales occupations,182.89032258064515,-2.440725806451612,-0.0003453353851049424,1514.0
+"Brighton and Hove, East Sussex, West Sussex-SOC71",71,Sales occupations,873.6516129032258,-1.087096774193548,-0.001034523031005478,10183.0
+Thames Valley Berkshire-SOC71,71,Sales occupations,505.63870967741934,-3.453225806451612,-0.0016248776514767934,5035.0
+"Essex, SouthendonSea and Thurrock-SOC71",71,Sales occupations,730.1870967741935,0.0608870967741937,5.0579482947730335e-05,8889.0
+Greater Lincolnshire-SOC71,71,Sales occupations,498.3806451612903,-4.154838709677419,-0.0018486238995506275,4761.0
+West Yorkshire-SOC71,71,Sales occupations,822.0129032258064,-2.397983870967741,-0.0020628434159302806,9205.0
+Liverpool City Region-SOC71,71,Sales occupations,500.7741935483871,-3.8568548387096757,-0.0017582122527649707,4878.0
+Hertfordshire-SOC71,71,Sales occupations,554.916129032258,-1.226612903225806,-0.0007217195356054786,6296.0
+Norfolk and Suffolk-SOC71,71,Sales occupations,724.8838709677419,-0.04717741935483853,-3.882037747413631e-05,8805.0
+Buckinghamshire-SOC71,71,Sales occupations,224.29677419354837,-1.6758064516129025,-0.00034047059568250267,2174.0
+West of England and North Somerset-SOC71,71,Sales occupations,629.5032258064516,-1.4447580645161284,-0.0009705086455121209,7188.0
+Greater Manchester-SOC71,71,Sales occupations,1317.1612903225807,-7.451612903225803,-0.009545981636305852,13708.0
+The Marches-SOC71,71,Sales occupations,263.5806451612903,-2.7681451612903216,-0.0005957705225779421,2303.0
+North of Tyne-SOC71,71,Sales occupations,339.76129032258063,-2.531451612903225,-0.0007847138444929591,3317.0
+Cumbria-SOC71,71,Sales occupations,248.2774193548387,-1.92258064516129,-0.0004215108774472714,2346.0
+Leicester and Leicestershire-SOC71,71,Sales occupations,355.8645161290322,-2.5379032258064504,-0.0008303541896198973,3501.0
+Swindon and Wiltshire-SOC71,71,Sales occupations,355.6322580645161,-2.1241935483870957,-0.0007156415823023743,3605.0
+West Midlands and Warwickshire-SOC71,71,Sales occupations,1208.6387096774192,-4.832258064516128,-0.005937984473268901,13149.0
+Lancashire-SOC71,71,Sales occupations,572.658064516129,-4.815322580645159,-0.0024692016526715157,5487.0
+Cornwall and the Isles of Scilly-SOC71,71,Sales occupations,300.18064516129033,-2.8399193548387087,-0.00072321716783848,2725.0
+Solent-SOC71,71,Sales occupations,578.8451612903225,-5.887499999999999,-0.0028935454188886434,5259.0
+Greater London-SOC71,71,Sales occupations,3426.793548387097,-12.59596774193548,-0.04423452973675619,37578.0
+Oxfordshire-SOC71,71,Sales occupations,452.2451612903226,-2.5334677419354836,-0.0011087554036513898,4683.0
+Gloucestershire-SOC71,71,Sales occupations,352.4451612903226,-2.0842741935483864,-0.0007000501240095107,3594.0
+Derbyshire and Nottinghamshire-SOC71,71,Sales occupations,803.6258064516129,-1.9403225806451596,-0.0016573580663149594,9140.0
+Heart of the SouthWest-SOC71,71,Sales occupations,929.9096774193548,-2.7443548387096772,-0.0026619015470565463,10379.0
+Enterprise M3 LEP (including all of Surrey)-SOC71,71,Sales occupations,1083.5225806451613,-3.006451612903225,-0.0034148345224117986,12154.0
+South Yorkshire-SOC71,71,Sales occupations,399.6967741935484,-1.8439516129032252,-0.00072927511151182,4232.0
+South East Midlands-SOC71,71,Sales occupations,750.3290322580646,-1.1334677419354828,-0.0009333200137782005,8811.0
+Dorset-SOC71,71,Sales occupations,379.9096774193548,-2.637499999999999,-0.0009304769883032489,3775.0
+Cambridgeshire and Peterborough-SOC71,71,Sales occupations,462.98709677419356,-3.1322580645161278,-0.0013646648894377286,4662.0
+Tees Valley-SOC71,71,Sales occupations,210.458064516129,-2.7907258064516123,-0.000448321181210092,1719.0
+Kent and Medway-SOC71,71,Sales occupations,888.2967741935483,-3.081048387096773,-0.002807080078068033,9749.0
+Worcestershire-SOC71,71,Sales occupations,218.5548387096774,-2.593145161290321,-0.000452931309468789,1869.0
+Leicester and Leicestershire-SOC72,72,Customer service occupations,346.34193548387094,-2.1080645161290312,-0.0006891280315233468,3498.0
+York and North Yorkshire-SOC72,72,Customer service occupations,278.0774193548387,-2.24274193548387,-0.0005516471787041537,2632.0
+Heart of the SouthWest-SOC72,72,Customer service occupations,604.0387096774193,-5.968145161290319,-0.0030826559399133847,5527.0
+Hertfordshire-SOC72,72,Customer service occupations,490.7096774193548,-3.7237903225806437,-0.0016606643655908966,4772.0
+Tees Valley-SOC72,72,Customer service occupations,143.91612903225803,-2.339516129032256,-0.0002481521932168556,1135.0
+Dorset-SOC72,72,Customer service occupations,245.8516129032258,-2.1318548387096765,-0.0004588257469584238,2303.0
+StokeonTrent and Staffordshire-SOC72,72,Customer service occupations,346.341935483871,-2.253225806451612,-0.0007327910785467184,3480.0
+The Marches-SOC72,72,Customer service occupations,200.2838709677419,-3.7495967741935474,-0.0004551870843406391,1299.0
+Greater London-SOC72,72,Customer service occupations,2260.18064516129,-4.1282258064516135,-0.010050416413885883,26051.0
+Gloucestershire-SOC72,72,Customer service occupations,290.4,-2.5854838709677415,-0.0006470660563444705,2678.0
+Greater Lincolnshire-SOC72,72,Customer service occupations,266.21290322580643,-1.9729838709677407,-0.000476813198263162,2586.0
+Kent and Medway-SOC72,72,Customer service occupations,648.7483870967742,-1.0548387096774188,-0.0007406203831736021,7513.0
+Liverpool City Region-SOC72,72,Customer service occupations,385.63870967741934,-1.9834677419354831,-0.0007531269293371686,4063.0
+Norfolk and Suffolk-SOC72,72,Customer service occupations,497.21290322580643,-3.9427419354838693,-0.001769730564388858,4803.0
+Swindon and Wiltshire-SOC72,72,Customer service occupations,261.7096774193548,-2.6008064516129012,-0.0005711788383292544,2350.0
+Cornwall and the Isles of Scilly-SOC72,72,Customer service occupations,112.70967741935485,-1.1814516129032258,-0.00012255615608762892,1110.0
+Worcestershire-SOC72,72,Customer service occupations,142.03870967741935,-2.296774193548386,-0.00024039893271965996,1120.0
+"Essex, SouthendonSea and Thurrock-SOC72",72,Customer service occupations,493.7806451612903,-3.736290322580644,-0.0016809040118902204,4814.0
+South East Midlands-SOC72,72,Customer service occupations,704.232258064516,-1.0427419354838707,-0.0008000483052811286,8210.0
+Oxfordshire-SOC72,72,Customer service occupations,327.9483870967742,-1.4927419354838707,-0.00048281699158250714,3461.0
+Thames Valley Berkshire-SOC72,72,Customer service occupations,446.0,-2.4899193548387086,-0.001080156367109561,4642.0
+South Yorkshire-SOC72,72,Customer service occupations,340.8709677419355,-2.189516129032258,-0.0007002036442197932,3422.0
+Enterprise M3 LEP (including all of Surrey)-SOC72,72,Customer service occupations,864.858064516129,-1.7552419354838702,-0.0016231139024728014,9895.0
+Greater Manchester-SOC72,72,Customer service occupations,1036.0387096774193,-1.72016129032258,-0.0019145959880298906,11910.0
+West Midlands and Warwickshire-SOC72,72,Customer service occupations,1012.516129032258,-4.504032258064514,-0.0045581231932566675,10829.0
+Hull and East Yorkshire-SOC72,72,Customer service occupations,105.93548387096772,-4.034274193548385,-3.732474243581956e-05,99.0
+West Yorkshire-SOC72,72,Customer service occupations,712.0387096774194,0.44717741935483857,0.00036679396077147266,8777.0
+Cheshire and Warrington-SOC72,72,Customer service occupations,413.18709677419355,-1.6689516129032251,-0.0006940647199544312,4450.0
+Cambridgeshire and Peterborough-SOC72,72,Customer service occupations,376.3225806451613,-2.5524193548387086,-0.000898791871461647,3768.0
+West of England and North Somerset-SOC72,72,Customer service occupations,461.68387096774194,-2.984274193548386,-0.001305768974774671,4682.0
+North of Tyne-SOC72,72,Customer service occupations,305.61290322580646,-2.901209677419354,-0.0007553642772618346,2786.0
+Buckinghamshire-SOC72,72,Customer service occupations,186.89677419354837,-2.535887096774193,-0.00036188048501823166,1527.0
+Cumbria-SOC72,72,Customer service occupations,120.28387096774193,-1.5479838709677416,-0.0001604331793781114,1109.0
+Solent-SOC72,72,Customer service occupations,398.1290322580645,-2.118951612903225,-0.0008223925802658899,4153.0
+"Brighton and Hove, East Sussex, West Sussex-SOC72",72,Customer service occupations,698.0967741935484,1.6129032258064506,0.0013485962900298438,8947.0
+North East-SOC72,72,Customer service occupations,319.5741935483871,-3.473387096774192,-0.0009085572490791744,2799.0
+Derbyshire and Nottinghamshire-SOC72,72,Customer service occupations,630.7741935483871,-1.5504032258064513,-0.0010342306869231585,7138.0
+Lancashire-SOC72,72,Customer service occupations,399.0193548387097,-1.920564516129032,-0.0007543701641868577,4203.0
+Oxfordshire-SOC81,81,"Process, plant and machine operatives",535.2903225806451,-4.374999999999998,-0.0021027652651144195,5143.0
+Greater Manchester-SOC81,81,"Process, plant and machine operatives",1292.8967741935483,-7.239516129032257,-0.009119340380226012,13479.0
+Greater London-SOC81,81,"Process, plant and machine operatives",3536.2774193548385,-12.892338709677418,-0.04663679017164849,38708.0
+Thames Valley Berkshire-SOC81,81,"Process, plant and machine operatives",545.2967741935483,-4.480241935483869,-0.002195217404258096,5243.0
+South Yorkshire-SOC81,81,"Process, plant and machine operatives",535.9419354838709,-4.373387096774192,-0.002102807469983226,5145.0
+Swindon and Wiltshire-SOC81,81,"Process, plant and machine operatives",375.06451612903226,-0.5947580645161288,-0.00023950415181805165,4309.0
+Leicester and Leicestershire-SOC81,81,"Process, plant and machine operatives",553.8774193548387,-4.67782258064516,-0.002313885436806961,5293.0
+South East Midlands-SOC81,81,"Process, plant and machine operatives",1033.2451612903226,-4.241129032258063,-0.004412156373271471,11132.0
+Solent-SOC81,81,"Process, plant and machine operatives",529.6258064516129,-4.099596774193546,-0.0019703976451998432,5143.0
+Hertfordshire-SOC81,81,"Process, plant and machine operatives",538.3935483870968,-4.304838709677418,-0.002085940218799023,5185.0
+Cambridgeshire and Peterborough-SOC81,81,"Process, plant and machine operatives",650.5354838709677,-0.48508064516129046,-0.00035123660551992126,7748.0
+West Midlands and Warwickshire-SOC81,81,"Process, plant and machine operatives",1752.0516129032258,-8.974999999999998,-0.015484097321497239,18461.0
+Greater Lincolnshire-SOC81,81,"Process, plant and machine operatives",630.4064516129032,-2.6443548387096767,-0.0016950274944070027,6859.0
+Cheshire and Warrington-SOC81,81,"Process, plant and machine operatives",498.54838709677415,-3.885080645161289,-0.001762728738971004,4855.0
+Kent and Medway-SOC81,81,"Process, plant and machine operatives",953.2387096774194,-2.853629032258063,-0.0028390967292272738,10646.0
+North East-SOC81,81,"Process, plant and machine operatives",453.0516129032258,-2.7895161290322568,-0.0012083001463637712,4635.0
+The Marches-SOC81,81,"Process, plant and machine operatives",390.0387096774193,-2.744354838709676,-0.000995103382077213,3880.0
+West of England and North Somerset-SOC81,81,"Process, plant and machine operatives",704.5032258064516,0.8294354838709675,0.0006818885776209471,8797.0
+Heart of the SouthWest-SOC81,81,"Process, plant and machine operatives",962.8645161290323,-2.6508064516129024,-0.002682641170319547,10829.0
+West Yorkshire-SOC81,81,"Process, plant and machine operatives",989.0322580645161,-2.441532258064515,-0.002552538595274791,11187.0
+Hull and East Yorkshire-SOC81,81,"Process, plant and machine operatives",233.08387096774192,-2.436693548387096,-0.00046704936564529636,2051.0
+Dorset-SOC81,81,"Process, plant and machine operatives",382.53548387096777,-0.8661290322580641,-0.00035088751096222466,4335.0
+Cornwall and the Isles of Scilly-SOC81,81,"Process, plant and machine operatives",206.0774193548387,-2.279032258064515,-0.00038060215030852204,1787.0
+Derbyshire and Nottinghamshire-SOC81,81,"Process, plant and machine operatives",1136.4774193548387,-2.271774193548387,-0.00276931376719233,13044.0
+Buckinghamshire-SOC81,81,"Process, plant and machine operatives",237.66451612903225,-1.9286290322580637,-0.0004039120123988979,2241.0
+York and North Yorkshire-SOC81,81,"Process, plant and machine operatives",426.7032258064516,-1.8302419354838702,-0.0007811523188095012,4567.0
+Lancashire-SOC81,81,"Process, plant and machine operatives",578.2967741935483,-1.8290322580645155,-0.001097539723546593,6421.0
+StokeonTrent and Staffordshire-SOC81,81,"Process, plant and machine operatives",587.516129032258,-1.6633064516129028,-0.001027471878647207,6610.0
+"Essex, SouthendonSea and Thurrock-SOC81",81,"Process, plant and machine operatives",664.0709677419355,0.3524193548387089,0.0002697695270193499,8191.0
+"Brighton and Hove, East Sussex, West Sussex-SOC81",81,"Process, plant and machine operatives",793.6193548387097,0.21532258064516138,0.00019529059503719046,9705.0
+Norfolk and Suffolk-SOC81,81,"Process, plant and machine operatives",781.3870967741935,-1.1512096774193545,-0.0009789134813544297,9099.0
+North of Tyne-SOC81,81,"Process, plant and machine operatives",310.16774193548383,-2.895564516129031,-0.000766342140467492,2832.0
+Cumbria-SOC81,81,"Process, plant and machine operatives",195.8774193548387,-2.9963709677419343,-0.00042395295666856545,1514.0
+Worcestershire-SOC81,81,"Process, plant and machine operatives",351.8709677419355,-2.6330645161290316,-0.0008383586444523267,3407.0
+Tees Valley-SOC81,81,"Process, plant and machine operatives",208.7032258064516,-3.471370967741935,-0.000496999560915618,1532.0
+Gloucestershire-SOC81,81,"Process, plant and machine operatives",482.59354838709675,-3.629838709677418,-0.00160858898382442,4742.0
+Liverpool City Region-SOC81,81,"Process, plant and machine operatives",489.92903225806447,-3.4088709677419344,-0.0015619555430613063,4903.0
+Enterprise M3 LEP (including all of Surrey)-SOC81,81,"Process, plant and machine operatives",1003.3548387096773,-3.379032258064515,-0.00350108454303566,11087.0
+Solent-SOC82,82,Transport and mobile machine drivers and operatives,551.3290322580644,-5.3108870967741915,-0.002516847445042198,5071.0
+North of Tyne-SOC82,82,Transport and mobile machine drivers and operatives,235.94838709677418,-2.0854838709677415,-0.0004295509049548373,2204.0
+Leicester and Leicestershire-SOC82,82,Transport and mobile machine drivers and operatives,570.9612903225806,-5.511693548387094,-0.0027119373408550475,5265.0
+StokeonTrent and Staffordshire-SOC82,82,Transport and mobile machine drivers and operatives,563.7806451612903,-5.5931451612903205,-0.002675700089766439,5119.0
+South Yorkshire-SOC82,82,Transport and mobile machine drivers and operatives,419.458064516129,-2.1455645161290313,-0.0008868593115138438,4423.0
+West Midlands and Warwickshire-SOC82,82,Transport and mobile machine drivers and operatives,1408.0516129032258,-10.954838709677418,-0.014150542469880711,13822.0
+Hull and East Yorkshire-SOC82,82,Transport and mobile machine drivers and operatives,168.94838709677418,-2.752822580645161,-0.00031694590327332003,1232.0
+Cumbria-SOC82,82,Transport and mobile machine drivers and operatives,182.27741935483868,-2.18266129032258,-0.00032636422121075435,1600.0
+Cambridgeshire and Peterborough-SOC82,82,Transport and mobile machine drivers and operatives,584.1290322580645,-6.364919354838707,-0.0030633480791417127,5150.0
+Derbyshire and Nottinghamshire-SOC82,82,Transport and mobile machine drivers and operatives,1053.5806451612902,-6.691532258064514,-0.006632441246308207,10606.0
+York and North Yorkshire-SOC82,82,Transport and mobile machine drivers and operatives,354.6967741935483,-2.858064516129031,-0.0009097307705294961,3406.0
+Lancashire-SOC82,82,Transport and mobile machine drivers and operatives,435.458064516129,-2.3249999999999993,-0.0009868844360722442,4542.0
+Cheshire and Warrington-SOC82,82,Transport and mobile machine drivers and operatives,441.0516129032258,-2.656451612903225,-0.0011146652534547222,4490.0
+Dorset-SOC82,82,Transport and mobile machine drivers and operatives,307.29677419354834,-2.3491935483870963,-0.0006428151216656483,2928.0
+Gloucestershire-SOC82,82,Transport and mobile machine drivers and operatives,389.17419354838705,-2.373790322580644,-0.0008771527569322148,3954.0
+The Marches-SOC82,82,Transport and mobile machine drivers and operatives,318.90322580645164,-2.6169354838709666,-0.0007322190518427211,2994.0
+Worcestershire-SOC82,82,Transport and mobile machine drivers and operatives,269.76774193548385,-2.4169354838709665,-0.000554966064074895,2457.0
+Oxfordshire-SOC82,82,Transport and mobile machine drivers and operatives,497.6322580645161,-4.287499999999999,-0.0018816048942791696,4696.0
+Buckinghamshire-SOC82,82,Transport and mobile machine drivers and operatives,238.2838709677419,-2.308064516129031,-0.00046784684925113904,2169.0
+Norfolk and Suffolk-SOC82,82,Transport and mobile machine drivers and operatives,761.0774193548386,-0.8858870967741935,-0.0007415444060200264,8957.0
+"Essex, SouthendonSea and Thurrock-SOC82",82,Transport and mobile machine drivers and operatives,937.6516129032258,-3.441935483870966,-0.003292526018465057,10236.0
+Hertfordshire-SOC82,82,Transport and mobile machine drivers and operatives,588.8903225806451,-4.714919354838708,-0.0025203828187801637,5720.0
+South East Midlands-SOC82,82,Transport and mobile machine drivers and operatives,1089.6580645161291,-4.4161290322580635,-0.004886407359168916,11840.0
+Cornwall and the Isles of Scilly-SOC82,82,Transport and mobile machine drivers and operatives,252.9096774193548,-1.7282258064516123,-0.0003976351309686263,2462.0
+"Brighton and Hove, East Sussex, West Sussex-SOC82",82,Transport and mobile machine drivers and operatives,752.3548387096774,1.2358870967741933,0.0010944604261721638,9476.0
+Thames Valley Berkshire-SOC82,82,Transport and mobile machine drivers and operatives,519.5032258064516,-5.003225806451611,-0.0022275018302367446,4764.0
+Tees Valley-SOC82,82,Transport and mobile machine drivers and operatives,199.44516129032257,-3.07016129032258,-0.00043955798081211705,1532.0
+West of England and North Somerset-SOC82,82,Transport and mobile machine drivers and operatives,770.1548387096775,-1.3483870967741933,-0.0011279305451838344,8951.0
+Kent and Medway-SOC82,82,Transport and mobile machine drivers and operatives,1113.8193548387096,-1.7951612903225795,-0.002176071429304629,12971.0
+Enterprise M3 LEP (including all of Surrey)-SOC82,82,Transport and mobile machine drivers and operatives,992.8774193548387,-3.206048387096773,-0.0032933888065687935,10992.0
+West Yorkshire-SOC82,82,Transport and mobile machine drivers and operatives,757.5548387096774,-0.9379032258064515,-0.0007800015201590816,8899.0
+Swindon and Wiltshire-SOC82,82,Transport and mobile machine drivers and operatives,414.6903225806451,-2.986693548387095,-0.001131820967380631,4055.0
+Liverpool City Region-SOC82,82,Transport and mobile machine drivers and operatives,423.3548387096774,-2.9858870967741926,-0.0011655584843825236,4177.0
+North East-SOC82,82,Transport and mobile machine drivers and operatives,360.18064516129033,-2.9608870967741927,-0.0009460566895255168,3419.0
+Greater London-SOC82,82,Transport and mobile machine drivers and operatives,2945.290322580645,-13.520161290322577,-0.03989400979755279,31574.0
+Heart of the SouthWest-SOC82,82,Transport and mobile machine drivers and operatives,992.8,-4.191129032258063,-0.0041940693459095145,10708.0
+Greater Lincolnshire-SOC82,82,Transport and mobile machine drivers and operatives,519.9870967741936,-4.783467741935482,-0.0021421795630682467,4792.0
+Greater Manchester-SOC82,82,Transport and mobile machine drivers and operatives,960.0064516129032,-4.6254032258064495,-0.004409059741754495,10200.0
+Greater Manchester-SOC91,91,Elementary trades and related occupations,424.56774193548387,-0.9931451612903224,-0.0004465234798964628,4811.0
+Thames Valley Berkshire-SOC91,91,Elementary trades and related occupations,208.0774193548387,-2.4040322580645146,-0.0003969840455014547,1767.0
+North of Tyne-SOC91,91,Elementary trades and related occupations,117.40645161290323,-1.2431451612903222,-0.00013058231628115845,1124.0
+Dorset-SOC91,91,Elementary trades and related occupations,155.25806451612902,-2.419354838709677,-0.00026860384361609285,1188.0
+Cornwall and the Isles of Scilly-SOC91,91,Elementary trades and related occupations,112.76129032258063,-1.214919354838709,-0.0001259143447424458,1109.0
+"Essex, SouthendonSea and Thurrock-SOC91",91,Elementary trades and related occupations,336.5806451612903,-1.9899193548387089,-0.0006361869600684027,3421.0
+The Marches-SOC91,91,Elementary trades and related occupations,135.70967741935482,-4.225806451612902,-0.0001654702174213661,419.0
+West of England and North Somerset-SOC91,91,Elementary trades and related occupations,246.72258064516126,-2.2729838709677415,-0.00048516410984898744,2284.0
+Worcestershire-SOC91,91,Elementary trades and related occupations,103.87741935483868,-4.20806451612903,-1.9269687975154274e-05,49.0
+Heart of the SouthWest-SOC91,91,Elementary trades and related occupations,433.54193548387093,-2.2516129032258054,-0.0009559444989455003,4543.0
+Tees Valley-SOC91,91,Elementary trades and related occupations,91.68387096774191,-3.4782258064516114,-2.86046512966965e-05,88.0
+Hertfordshire-SOC91,91,Elementary trades and related occupations,241.11612903225807,-2.1403225806451607,-0.00045024711749563846,2251.0
+West Midlands and Warwickshire-SOC91,91,Elementary trades and related occupations,552.4,3.3439516129032247,0.0023862839325374096,7636.0
+West Yorkshire-SOC91,91,Elementary trades and related occupations,341.5741935483871,-2.0399193548387085,-0.0006586538929531319,3455.0
+Swindon and Wiltshire-SOC91,91,Elementary trades and related occupations,151.2258064516129,-2.310483870967741,-0.00025522113191269504,1182.0
+Kent and Medway-SOC91,91,Elementary trades and related occupations,508.52258064516127,-3.3008064516129023,-0.0015793785419286814,5120.0
+South Yorkshire-SOC91,91,Elementary trades and related occupations,149.94838709677418,-2.234677419354838,-0.00024789157815197793,1187.0
+York and North Yorkshire-SOC91,91,Elementary trades and related occupations,191.67096774193547,-2.7153225806451604,-0.000388755377303493,1532.0
+South East Midlands-SOC91,91,Elementary trades and related occupations,372.86451612903227,-2.987499999999999,-0.0009992308298318589,3579.0
+Cheshire and Warrington-SOC91,91,Elementary trades and related occupations,217.1612903225806,-2.883064516129031,-0.0004755490117107445,1765.0
+StokeonTrent and Staffordshire-SOC91,91,Elementary trades and related occupations,201.2064516129032,-2.9947580645161276,-0.0004455546897427694,1592.0
+Enterprise M3 LEP (including all of Surrey)-SOC91,91,Elementary trades and related occupations,469.3225806451613,-2.883064516129031,-0.001293816631294615,4802.0
+Buckinghamshire-SOC91,91,Elementary trades and related occupations,85.35483870967741,-3.328629032258064,-2.2086146992509837e-05,71.0
+Oxfordshire-SOC91,91,Elementary trades and related occupations,227.39354838709676,-2.841129032258064,-0.00050766247028781,1912.0
+Derbyshire and Nottinghamshire-SOC91,91,Elementary trades and related occupations,388.7870967741935,-2.8254032258064496,-0.0010128735913563554,3836.0
+Greater London-SOC91,91,Elementary trades and related occupations,1169.6129032258063,-3.066532258064515,-0.0037699414274499966,13155.0
+Cumbria-SOC91,91,Elementary trades and related occupations,86.3032258064516,-3.369758064516128,-2.2359046688843693e-05,71.0
+Norfolk and Suffolk-SOC91,91,Elementary trades and related occupations,352.6258064516129,-2.6963709677419345,-0.0008547354147683328,3392.0
+Gloucestershire-SOC91,91,Elementary trades and related occupations,161.6838709677419,-2.6959677419354824,-0.000299314216402866,1188.0
+Lancashire-SOC91,91,Elementary trades and related occupations,225.1612903225806,-3.088709677419353,-0.0005357365460909436,1856.0
+Greater Lincolnshire-SOC91,91,Elementary trades and related occupations,272.83870967741933,-2.9475806451612896,-0.0006520188730647058,2367.0
+Liverpool City Region-SOC91,91,Elementary trades and related occupations,162.1225806451613,-2.6669354838709673,-0.00029808484886721356,1196.0
+Cambridgeshire and Peterborough-SOC91,91,Elementary trades and related occupations,263.81290322580645,-2.6616935483870967,-0.0005830581523131088,2344.0
+North East-SOC91,91,Elementary trades and related occupations,145.91612903225806,-2.4383064516129025,-0.00025589644749651156,1123.0
+Hull and East Yorkshire-SOC91,91,Elementary trades and related occupations,84.65161290322578,-3.2987903225806434,-2.188816093830683e-05,71.0
+Solent-SOC91,91,Elementary trades and related occupations,186.09032258064514,-2.5056451612903214,-0.00035709652545613926,1525.0
+Leicester and Leicestershire-SOC91,91,Elementary trades and related occupations,201.73548387096773,-3.2395161290322574,-0.00045865802028783817,1515.0
+"Brighton and Hove, East Sussex, West Sussex-SOC91",91,Elementary trades and related occupations,473.47741935483873,-2.596370967741935,-0.0012042238720125535,4963.0
+The Marches-SOC92,92,Elementary administration and service occupations,741.658064516129,0.10604838709677429,8.95918925749346e-05,9040.0
+Cornwall and the Isles of Scilly-SOC92,92,Elementary administration and service occupations,853.5935483870968,-3.8032258064516116,-0.003269557224470721,9199.0
+"Essex, SouthendonSea and Thurrock-SOC92",92,Elementary administration and service occupations,2007.1806451612904,-0.40241935483870994,-0.0009090497648249755,24172.0
+Enterprise M3 LEP (including all of Surrey)-SOC92,92,Elementary administration and service occupations,3002.6387096774192,-4.638709677419354,-0.015097654092711786,34827.0
+Worcestershire-SOC92,92,Elementary administration and service occupations,707.0258064516129,0.383467741935484,0.00031195634570747237,8705.0
+Norfolk and Suffolk-SOC92,92,Elementary administration and service occupations,2050.2516129032256,-1.6084677419354836,-0.003650001332618732,24282.0
+West Midlands and Warwickshire-SOC92,92,Elementary administration and service occupations,3265.406451612903,-20.54153225806451,-0.06354335816809499,33101.0
+Oxfordshire-SOC92,92,Elementary administration and service occupations,1413.7612903225806,-4.509274193548387,-0.0067421078470478535,15999.0
+North East-SOC92,92,Elementary administration and service occupations,1020.5096774193548,-4.114516129032257,-0.0042773615588884385,11124.0
+Buckinghamshire-SOC92,92,Elementary administration and service occupations,721.9096774193548,-0.014516129032258088,-1.1861979841308687e-05,8744.0
+South East Midlands-SOC92,92,Elementary administration and service occupations,2517.1935483870966,-16.209677419354833,-0.03883326503228974,25635.0
+Cumbria-SOC92,92,Elementary administration and service occupations,713.1999999999999,0.16088709677419347,0.00013007197651487156,8651.0
+North of Tyne-SOC92,92,Elementary administration and service occupations,915.8387096774193,-1.808467741935483,-0.0017679915353794528,10461.0
+Lancashire-SOC92,92,Elementary administration and service occupations,1607.5612903225806,-3.7790322580645146,-0.006477739827260232,18342.0
+Leicester and Leicestershire-SOC92,92,Elementary administration and service occupations,1324.6064516129034,-7.824193548387095,-0.01000792553172776,13687.0
+Greater Lincolnshire-SOC92,92,Elementary administration and service occupations,1212.9806451612903,-4.970564516129031,-0.006133022404337033,13203.0
+Greater London-SOC92,92,Elementary administration and service occupations,10416.303225806452,26.055645161290315,0.32586805346258335,133827.0
+Cambridgeshire and Peterborough-SOC92,92,Elementary administration and service occupations,1371.6193548387096,-8.391532258064514,-0.011088859749642585,14140.0
+South Yorkshire-SOC92,92,Elementary administration and service occupations,1150.1483870967743,-2.493145161290322,-0.0030680582178663138,13168.0
+Kent and Medway-SOC92,92,Elementary administration and service occupations,2824.354838709677,-8.548387096774192,-0.025003279695135418,31298.0
+Thames Valley Berkshire-SOC92,92,Elementary administration and service occupations,1496.7935483870967,-2.55766129032258,-0.004151586188749705,17369.0
+Solent-SOC92,92,Elementary administration and service occupations,1543.8451612903225,-2.6314516129032244,-0.004400469694367381,17894.0
+Hertfordshire-SOC92,92,Elementary administration and service occupations,1751.6967741935484,-3.9326612903225806,-0.007262592457942313,19761.0
+Swindon and Wiltshire-SOC92,92,Elementary administration and service occupations,1036.1096774193547,-2.6782258064516116,-0.002916628731272534,11653.0
+Heart of the SouthWest-SOC92,92,Elementary administration and service occupations,2427.8645161290324,-9.533870967741933,-0.02364201968348862,26535.0
+StokeonTrent and Staffordshire-SOC92,92,Elementary administration and service occupations,1442.7806451612903,-2.693951612903225,-0.004216469429296689,16748.0
+Dorset-SOC92,92,Elementary administration and service occupations,1163.6451612903224,-2.2116935483870956,-0.002767796615207505,13391.0
+"Brighton and Hove, East Sussex, West Sussex-SOC92",92,Elementary administration and service occupations,2567.4387096774194,-2.2068548387096767,-0.006285327981104806,30476.0
+Derbyshire and Nottinghamshire-SOC92,92,Elementary administration and service occupations,2641.451612903226,-10.562499999999995,-0.02825980190819244,28629.0
+West of England and North Somerset-SOC92,92,Elementary administration and service occupations,1866.283870967742,-4.380645161290322,-0.008717082233440537,21293.0
+West Yorkshire-SOC92,92,Elementary administration and service occupations,2215.0774193548386,-5.321370967741934,-0.012496688801944643,25129.0
+Hull and East Yorkshire-SOC92,92,Elementary administration and service occupations,532.1290322580645,-4.387096774193547,-0.002079060071525254,5071.0
+Gloucestershire-SOC92,92,Elementary administration and service occupations,1172.6516129032257,-2.8633064516129023,-0.003561307461676403,13309.0
+York and North Yorkshire-SOC92,92,Elementary administration and service occupations,1425.8903225806453,-2.0133064516129027,-0.003126502050555204,16617.0
+Tees Valley-SOC92,92,Elementary administration and service occupations,591.9612903225806,-1.8705645161290319,-0.001147984226279981,6567.0
+Cheshire and Warrington-SOC92,92,Elementary administration and service occupations,1648.0129032258064,-4.3979838709677415,-0.007588022180455278,18462.0
+Greater Manchester-SOC92,92,Elementary administration and service occupations,2977.9612903225807,-13.217338709677415,-0.03929568444846117,31813.0
+Liverpool City Region-SOC92,92,Elementary administration and service occupations,1470.4967741935484,-0.5350806451612904,-0.0008829423982252878,17657.0

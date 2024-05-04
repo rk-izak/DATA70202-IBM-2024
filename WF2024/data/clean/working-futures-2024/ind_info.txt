@@ -1,0 +1,65 @@
+IND Number to Areas:
+
+Computer, etc [26] - Industry No. 16
+2611 Manufacture of electronic components
+2612 Manufacture of loaded electronic boards
+2620 Manufacture of computers and peripheral equipment
+2630 Manufacture of communication equipment
+2640 Manufacture of consumer electronics
+2651 Manufacture of instruments and appliances for measuring, testing and navigation
+2652 Manufacture of watches and clocks
+2660 Manufacture of irradiation, electromedical and electrotherapeutic equipment
+2670 Manufacture of optical instruments and photographic equipment
+2680 Manufacture of magnetic and optical media
+
+Telecommunications [61] - Industry No. 44
+6110 Wired telecommunications activities
+6120 Wireless telecommunications activities
+6130 Satellite telecommunications activities
+6190 Other telecommunications activities
+
+Computing Services [62] - Industry No. 45
+6201 Computer programming activities
+6202 Computer consultancy activities
+6203 Computer facilities management activities
+6209 Other information technology and computer service activities
+
+Information Services [63] - Industry No. 46
+6311 Data processing, hosting and related activities
+6312 Web portals
+6391 News agency activities
+6399 Other information service activities n.e.c.
+
+Scientific Research and Development [72] - Industry No. 54
+7211 Research and experimental development on biotechnology
+7219 Other research and experimental development on natural sciences and engineering
+7220 Research and experimental development on social sciences and humanities
+
+Financial Services [64] - Industry No. 47
+6411 Central banking
+6419 Other monetary intermediation
+6420 Activities of holding companies
+6430 Trusts, funds and similar financial entities
+6491 Financial leasing
+6492 Other credit granting
+6499 Other financial service activities, except insurance and pension funding n.e.c.
+
+Education [85] - Industry No. 65
+8510 Pre-primary education
+8520 Primary education
+8531 General secondary education
+8532 Technical and vocational secondary education
+8541 Post-secondary non-tertiary education
+8542 Tertiary education
+8551 Sports and recreation education
+8552 Cultural education
+8553 Driving school activities
+8559 Other education n.e.c.
+8560 Educational support activities
+
+Health [86] - Industry No. 66
+8610 Hospital activities
+8621 General medical practice activities
+8622 Specialist medical practice activities
+8623 Dental practice activities
+8690 Other human health activities

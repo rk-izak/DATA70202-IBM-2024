@@ -1,0 +1,50 @@
+Gender ID to name:
+
+1 - Male
+2 - Female
+
+Status ID to name:
+
+1 - Full Time
+2 - Part Time
+3 - Self Employed
+
+Occupation ID to name:
+
+1 - Corporate managers and directors
+2 - Other managers and proprietors
+3 - Science, research, engineering and technology professionals
+4 - Health professionals
+5 - Teaching and educational professionals
+6 - Business, media and public service professionals
+7 - Science, engineering and technology associate professionals
+8 - Health and social care associate professionals
+9 - Protective service occupations
+10 - Culture, media and sports occupations
+11 - Business and public service associate professionals
+12 - Administrative occupations
+13 - Secretarial and related occupations
+14 - Skilled agricultural and related trades
+15 - Skilled metal, electrical and electronic trades
+16 - Skilled construction and building trades
+17 - Textiles, printing and other skilled trades
+18 - Caring personal service occupations
+19 - Leisure, travel and related personal service occupations
+20 - Sales occupations
+21 - Customer service occupations
+22 - Process, plant and machine operatives
+23 - Transport and mobile machine drivers and operatives
+24 - Elementary trades and related occupations
+25 - Elementary administration and service occupations
+
+Qualification ID to name:
+
+1 - Doctorate (QCF8)
+2 - Other higher degree (QCF7)
+3 - First degree (QCF6)
+4 - Foundation degree; Nursing; Teaching (QCF5)
+5 - HE below degree level (QCF4)
+6 - A level & equivalent (QCF3)
+7 - GCSE (A-C) & equivalent (QCF2)
+8 - GCSE (below grade C) & equivalent (QCF1)
+9 - No Qualification
