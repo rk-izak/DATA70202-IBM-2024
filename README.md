@@ -7,7 +7,7 @@
 - Maria Teneva (maria.teneva@postgrad.manchester.ac.uk)
 - Zhihui Wang (zhihui.wang@student.manchester.ac.uk)
 
-Please be advised that these emails have been made valid for the academic year 2023-2024 at The University of Manchester and might be invalid at the time of cloning the repository. For further contact, please directly contact the collaborators.
+**Note:** These email addresses are valid for the academic year 2023-2024 at The University of Manchester and may be invalid thereafter. Please contact the collaborators directly for further communications.
 
 ## Short description of the Project
 ### Course Unit Leader
@@ -18,13 +18,13 @@ Please be advised that these emails have been made valid for the academic year 2
 - **Name:** Jon McNamara
 - **Email:** [j0nnymac@uk.ibm.com](mailto:j0nnymac@uk.ibm.com)
 
-During the 2023-2024 academic year, as part of "Applying Data Science (ADS) 70202", group members enrolled at the University of Manchester, collaborated on a project with IBM (academic partner). Our focus was on IBM Skills Build and our project aimed to analyze data from the UK Govt Employment and Skills survey to evaluate and improve the relevance of IBM Skills Build platform content. 
+During the 2023-2024 academic year, as part of the "Applying Data Science (ADS) 70202" course, we collaborated with our Industry Partner at IBM to focus on the IBM Skills Build platform. Our project aimed to analyze data from the UK Government's Employment and Skills survey to enhance the relevance of the IBM Skills Build platform content.
 
-We investigated current IBM Skills Build material; identified skill gaps using variety of data sources, and ultimately recommended content updates to address current and projected industry needs. More about the process and findings can be found in the `REPORT.pdf` and `PRESENTATION.pdf` files.
+Key activities included analyzing current IBM Skills Build material, identifying skill gaps using various data sources, and recommending content updates based on current and projected industry needs. Find more details in `REPORT.pdf` and `PRESENTATION.pdf`.
 
-This collaboration was conducted within the framework of our university course and does not represent emplyoment under IBM. 
+This collaboration was conducted under the academic framework of our university course and does not represent employment under IBM.
 
-For more information, please refer to the `P13 IBM.docx` file.
+For more project specifics, refer to `P13 IBM.docx`.
 
 ## Dependencies
 
@@ -42,29 +42,31 @@ pip3 install -r requirements.txt
 
 Be advised that different `venv` instances and `Python3.XX` versions should be used for different Jupyter notebooks found within this repository in relevant folders. For more information visit [here](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) and `README` in each folder.
 
-## Local Skills Improvement Plans Analysis and Modelling (./LSIP/*)
+## Project Directories Info
+
+### Local Skills Improvement Plans Analysis and Modelling `(./LSIP/*)`
 Short description (TBD).
 
-## Working Futures 2024 Analysis and Modelling (./WF2024/*)
+### Working Futures 2024 Analysis and Modelling `(./WF2024/*)`
 This folder focuses on predicting UK labor market trends from 2025 to 2035. More data information is available [here](https://www.gov.uk/government/publications/uk-labour-market-projections-2014-to-2024).
 
 The `wf-regions-ml-2.ipynb` notebook provides an end-to-end workflow for forecasting labor market trends. It covers data preprocessing, model selection, predictions, evaluations, and includes a graphical user interface for interactive forecasting.
 
-## Indeed Scraping and Contemporary Skills Analysis (./INDEED/*)
-### Scraping
+### Indeed Scraping and Contemporary Skills Analysis `(./INDEED/*)`
+#### Indeed Scraping
 The `scrap.ipynb` notebook is utilised data collection for UK job positions by scraping specific keywords. It targets roles like programmers, software developers, IT analysts, architects, and managers.
 
-### Analysis
+#### Data Analysis
 The `indeed_analysis.ipynb` notebook analyzes Indeed job postings, involving data preprocessing, skill extraction, median salary analysis, and skill frequency evaluation. It visualizes insights such as median salaries by measures such as location and skill demand by companies.
 
 ## File Structure
-- `README.md`: Overview of the project, folders, and work achieved.
-- `./LSIP/*`: Folder with all files relevant to Local Skills Improvement Plan modelling and analysis, more information found inside.
-- `./INDEED/*`: Folder with all files relevant to Indeed scraping skills analysis, more information found inside.
-- `./WF2024/*`: Folder with all files relevant to Working Futures 2024 modelling and analysis, more information found inside.
-- `P13 IBM.docx`: Full description of the academic project, as given by the course leader and academic industry partner.
-- `REPORT.pdf`: Detailed description of our work in form of a scientific report.
-- `PRESENTATION.pdf`: Detailed description of our work in form of a presentation.
+* `README.md` - Overview of the project and its directories.
+* `./LSIP/*` - Local Skills Improvement Plan modelling and analysis files.
+* `./INDEED/*` - Files related to Indeed job scraping and skills analysis.
+* `./WF2024/*` - Working Futures 2024 modelling and analysis files.
+* `P13 IBM.docx` - Full academic project description.
+* `REPORT.pdf` - Detailed scientific report of our work.
+* `PRESENTATION.pdf` - Presentation outlining our project findings.
 
 ## Code Attribution
 ### LSIP
