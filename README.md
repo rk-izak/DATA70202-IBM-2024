@@ -10,12 +10,19 @@
 Please be advised that these emails have been made valid for the academic year 2023-2024 at The University of Manchester and might be invalid at the time of cloning the repository. For further contact, please directly contact the collaborators.
 
 ## Short description of the Project
-Course Unit Leader: Dr Nuno Pinto (NP) `nuno.pinto@manchester.ac.uk`
-Project Mentor at Industry Partner: Jon Mc Namara, `j0nnymac@uk.ibm.com`
+### Course Unit Leader
+- **Name:** Dr. Nuno Pinto
+- **Email:** [nuno.pinto@manchester.ac.uk](mailto:nuno.pinto@manchester.ac.uk)
+
+### Industry Project Mentor
+- **Name:** Jon McNamara
+- **Email:** [j0nnymac@uk.ibm.com](mailto:j0nnymac@uk.ibm.com)
 
 During the 2023-2024 academic year, as part of "Applying Data Science (ADS) 70202", group members enrolled at the University of Manchester, collaborated on a project with IBM (academic partner). Our focus was on IBM Skills Build and our project aimed to analyze data from the UK Govt Employment and Skills survey to evaluate and improve the relevance of IBM Skills Build platform content. 
 
-We investigated current IBM Skills Build material; identifies skill gaps using variety of sources, and ultimately recommended content updates to address current and projected industry needs. This collaboration was conducted within the framework of our university course and does not represent emplyoment under IBM. 
+We investigated current IBM Skills Build material; identified skill gaps using variety of data sources, and ultimately recommended content updates to address current and projected industry needs. More about the process and findings can be found in the `REPORT.pdf` and `PRESENTATION.pdf` files.
+
+This collaboration was conducted within the framework of our university course and does not represent emplyoment under IBM. 
 
 For more information, please refer to the `P13 IBM.docx` file.
 
