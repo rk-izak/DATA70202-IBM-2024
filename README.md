@@ -7,7 +7,7 @@
 - Maria Teneva (maria.teneva@postgrad.manchester.ac.uk)
 - Zhihui Wang (zhihui.wang@student.manchester.ac.uk)
 
-**Note:** These email addresses are valid for the academic year 2023-2024 at The University of Manchester and may be invalid thereafter. Please contact the collaborators directly for further communications.
+**Note:** These email addresses are valid for the academic year 2023-2024 at The University of Manchester and may be invalid thereafter. Please contact the collaborators directly through GitHub for further communication.
 
 ## Short description of the Project
 ### Course Unit Leader
@@ -69,16 +69,16 @@ The `indeed_analysis.ipynb` notebook analyzes Indeed job postings, involving dat
 * `PRESENTATION.pdf` - Presentation outlining our project findings.
 
 ## Code Attribution
-### LSIP
+### `LSIP`
 - Which core libraries, data, and so on were used (TBD).
 
-### WF2024
+### `WF2024`
 - **Scikit-learn**: Used for implementing and training machine learning models such as Elastic Net orSupport Vector Regression.
 - **Matplotlib**: Employed for creating visualizations to compare actual versus predicted labor workforce across various model predictions.
 - **Pandas** and **NumPy**: Utilized for data manipulation and handling, especially for preparing and structuring data for model training and predictions.
 - **XGBoost** and **LightGBM:**: Specifically used for training and prediction within the context of boosting methods in machine learning.
 
-### INDEED
+### `INDEED`
 - **Pandas** and **NumPy**: Used for data manipulation and numerical computations.
 - **Matplotlib**: Employed for creating various data visualizations like bar graphs and plots.
 - **JSON**: Employed for loading and saving scraped data in JSON format.
