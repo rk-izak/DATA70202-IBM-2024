@@ -73,7 +73,7 @@ The `indeed_analysis.ipynb` notebook analyzes Indeed job postings, involving dat
 - Which core libraries, data, and so on were used (TBD).
 
 ### `WF2024`
-- **Scikit-learn**: Used for implementing and training machine learning models such as Elastic Net orSupport Vector Regression.
+- **Scikit-learn**: Used for implementing and training machine learning models such as Elastic Net or Support Vector Regression.
 - **Matplotlib**: Employed for creating visualizations to compare actual versus predicted labor workforce across various model predictions.
 - **Pandas** and **NumPy**: Utilized for data manipulation and handling, especially for preparing and structuring data for model training and predictions.
 - **XGBoost** and **LightGBM:**: Specifically used for training and prediction within the context of boosting methods in machine learning.
