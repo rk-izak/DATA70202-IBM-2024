@@ -47,6 +47,10 @@ Be advised that different `venv` instances and `Python3.XX` versions should be u
 ### Local Skills Improvement Plans Analysis and Modelling `(./LSIP/*)`
 This folder contains EDA and preprocessing tasks on web advert data from the ONS available [here](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourdemandvolumesbystandardoccupationclassificationsoc2020uk) which provides information about job postings by various socio-demographic characteristics, including Local Skills Improvement Plan (LSIP) areas. The files cover time series forecasting models and their evaluation, as sell as visualisations of regional skills gap indices by 2025.
 
+The GDP information utilised in the models is based on data from the House of Commons (2024) available [here](https://researchbriefings.files.parliament.uk/documents/SN02783/SN02783.pdf).
+
+Census data from 2021 (available [here](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentand)) and regional projections by 2025 (available [here](https://www.gov.uk/government/publications/labour-market-and-skills-projections-2020-to-2035)) were also used in the analysis.
+
 ### Working Futures 2024 Analysis and Modelling `(./WF2024/*)`
 This folder focuses on predicting UK labor market trends from 2025 to 2035. More data information is available [here](https://www.gov.uk/government/publications/uk-labour-market-projections-2014-to-2024).
 
@@ -71,9 +75,12 @@ The `indeed_analysis.ipynb` notebook analyzes Indeed job postings, involving dat
 ## Code Attribution
 ### `LSIP`
 -  **Pandas** and **NumPy**: Utilized for data manipulation and handling.
+-  **Geopandas**: Used for geospatial analysis.
 -  **PlotlyExpress**: Employed module for visually appealing graphs of results
 -  **Seaborn** and **Matpolotlib**: Used for data visualisation
-
+-  **XGBoost**: Utilised for training and forecasting of time series data
+-  **Statsmodels**: Used for time series analysis, specifically seasonal decomposition and autocorrelation analysis
+  
 ### `WF2024`
 - **Scikit-learn**: Used for implementing and training machine learning models such as Elastic Net or Support Vector Regression.
 - **Matplotlib**: Employed for creating visualizations to compare actual versus predicted labor workforce across various model predictions.
@@ -91,3 +98,12 @@ The `indeed_analysis.ipynb` notebook analyzes Indeed job postings, involving dat
 - UK Government. "Local Skills Improvement Plans". UK Government Publications. Retrieved from https://www.gov.uk/government/publications/local-skills-improvement-plans
 
 - UK Government. "UK Labour Market Projections: 2014 to 2024". UK Government Publications. Retrieved from https://www.gov.uk/government/publications/uk-labour-market-projections-2014-to-2024
+
+- UK Government. "Labour market and skills projections: 2020 to 2035" UK Government Publications. Retrieved from https://www.gov.uk/government/publications/labour-market-and-skills-projections-2020-to-2035
+
+- ONS. "Labour demand volumes by Standard Occupation Classification (SOC2020)". Retrieved from https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourdemandvolumesbystandardoccupationclassificationsoc2020uk
+
+- ONS. "Occupations of those in employment, by age and sex, England and Wales, Census 2021". Retrieved from https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/occupationsofthoseinemploymentbyageandsexenglandandwalescensus2021
+
+- House of Commons. "Economic Indicators (02783)". April 17, 2024. House of Commons Library. Retrieved from https://researchbriefings.files.parliament.uk/documents/SN02783/SN02783.pdf
+
