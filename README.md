@@ -70,7 +70,7 @@ The `indeed_analysis.ipynb` notebook analyzes Indeed job postings, involving dat
 
 ## Code Attribution
 ### `LSIP`
-- Which core libraries, data, and so on were used (TBD).
+-  **Pandas** and **NumPy**: Utilized for data manipulation and handling.
 
 ### `WF2024`
 - **Scikit-learn**: Used for implementing and training machine learning models such as Elastic Net or Support Vector Regression.
