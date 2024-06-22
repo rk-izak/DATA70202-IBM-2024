@@ -71,6 +71,7 @@ The `indeed_analysis.ipynb` notebook analyzes Indeed job postings, involving dat
 ## Code Attribution
 ### `LSIP`
 -  **Pandas** and **NumPy**: Utilized for data manipulation and handling.
+-  **PlotlyExpress**: Employed module for visually appealing graphs of results
 
 ### `WF2024`
 - **Scikit-learn**: Used for implementing and training machine learning models such as Elastic Net or Support Vector Regression.
