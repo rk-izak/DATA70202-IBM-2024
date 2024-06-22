@@ -45,7 +45,7 @@ Be advised that different `venv` instances and `Python3.XX` versions should be u
 ## Project Directories Info
 
 ### Local Skills Improvement Plans Analysis and Modelling `(./LSIP/*)`
-This folder contains EDA and preprocessing tasks on web advert data from the ONS ([available here](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourdemandvolumesbystandardoccupationclassificationsoc2020uk) which provides information about job postings by various socio-demographic characteristics, including Local Skills Improvement Plan (LSIP) areas. The files cover time series forecasting models and their evaluation, as sell as visualisations of regional skills gap indices by 2025.
+This folder contains EDA and preprocessing tasks on web advert data from the ONS available [here](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourdemandvolumesbystandardoccupationclassificationsoc2020uk) which provides information about job postings by various socio-demographic characteristics, including Local Skills Improvement Plan (LSIP) areas. The files cover time series forecasting models and their evaluation, as sell as visualisations of regional skills gap indices by 2025.
 
 ### Working Futures 2024 Analysis and Modelling `(./WF2024/*)`
 This folder focuses on predicting UK labor market trends from 2025 to 2035. More data information is available [here](https://www.gov.uk/government/publications/uk-labour-market-projections-2014-to-2024).
@@ -72,6 +72,7 @@ The `indeed_analysis.ipynb` notebook analyzes Indeed job postings, involving dat
 ### `LSIP`
 -  **Pandas** and **NumPy**: Utilized for data manipulation and handling.
 -  **PlotlyExpress**: Employed module for visually appealing graphs of results
+-  **Seaborn** and **Matpolotlib**: Used for data visualisation
 
 ### `WF2024`
 - **Scikit-learn**: Used for implementing and training machine learning models such as Elastic Net or Support Vector Regression.
